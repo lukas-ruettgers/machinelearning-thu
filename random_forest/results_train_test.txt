@@ -1,0 +1,175 @@
+
+TREES: 100, CRIT: gini, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+
+TREES: 100, CRIT: gini, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 477, FP: 145, FN: 70, TN: 405, Accuracy: 0.8040
+
+TREES: 100, CRIT: gini, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 473, FP: 153, FN: 74, TN: 397, Accuracy: 0.7931
+
+TREES: 100, CRIT: gini, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 486, FP: 193, FN: 61, TN: 357, Accuracy: 0.7685
+
+TREES: 100, CRIT: gini, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 490, FP: 184, FN: 57, TN: 366, Accuracy: 0.7803
+
+TREES: 100, CRIT: gini, MAXFT: 1.0, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 480, FP: 197, FN: 67, TN: 353, Accuracy: 0.7593
+TREES: 100, CRIT: gini, MAXFT: 1.0, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 491, FP: 202, FN: 56, TN: 348, Accuracy: 0.7648
+TREES: 100, CRIT: gini, MAXFT: sqrt, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2549, FP: 0, FN: 1, TN: 2450, Accuracy: 0.9998
+Testing Results: TP: 487, FP: 194, FN: 60, TN: 356, Accuracy: 0.7685
+TREES: 100, CRIT: gini, MAXFT: log2, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 491, FP: 190, FN: 56, TN: 360, Accuracy: 0.7758
+TREES: 100, CRIT: gini, MAXFT: 0.3, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 486, FP: 181, FN: 61, TN: 369, Accuracy: 0.7794
+TREES: 100, CRIT: gini, MAXFT: 1.0, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2549, FP: 0, FN: 1, TN: 2450, Accuracy: 0.9998
+Testing Results: TP: 487, FP: 186, FN: 60, TN: 364, Accuracy: 0.7758
+TREES: 100, CRIT: entropy, MAXFT: sqrt, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 485, FP: 193, FN: 62, TN: 357, Accuracy: 0.7675
+TREES: 100, CRIT: entropy, MAXFT: log2, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 490, FP: 200, FN: 57, TN: 350, Accuracy: 0.7657
+TREES: 100, CRIT: entropy, MAXFT: 0.3, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 488, FP: 197, FN: 59, TN: 353, Accuracy: 0.7666
+TREES: 100, CRIT: entropy, MAXFT: 1.0, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 489, FP: 182, FN: 58, TN: 368, Accuracy: 0.7812
+TREES: 100, CRIT: log_loss, MAXFT: sqrt, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 481, FP: 195, FN: 66, TN: 355, Accuracy: 0.7621
+TREES: 100, CRIT: log_loss, MAXFT: log2, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 489, FP: 181, FN: 58, TN: 369, Accuracy: 0.7821
+TREES: 100, CRIT: log_loss, MAXFT: 0.3, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 484, FP: 182, FN: 63, TN: 368, Accuracy: 0.7767
+TREES: 100, CRIT: log_loss, MAXFT: 1.0, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 487, FP: 177, FN: 60, TN: 373, Accuracy: 0.7840
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 492, FP: 195, FN: 55, TN: 355, Accuracy: 0.7721
+TREES: 100, CRIT: entropy, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 475, FP: 195, FN: 72, TN: 355, Accuracy: 0.7566
+TREES: 100, CRIT: log_loss, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 485, FP: 189, FN: 62, TN: 361, Accuracy: 0.7712
+TREES: 100, CRIT: gini, MAXFT: sqrt, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, MAX_SAMPLES: 500.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 484, FP: 210, FN: 63, TN: 340, Accuracy: 0.7511
+TREES: 100, CRIT: gini, MAXFT: sqrt, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, MAX_SAMPLES: 1500.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 490, FP: 215, FN: 57, TN: 335, Accuracy: 0.7521
+TREES: 100, CRIT: gini, MAXFT: log2, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, MAX_SAMPLES: 500.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 490, FP: 218, FN: 57, TN: 332, Accuracy: 0.7493
+TREES: 100, CRIT: gini, MAXFT: log2, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, MAX_SAMPLES: 1500.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 482, FP: 199, FN: 65, TN: 351, Accuracy: 0.7593
+TREES: 100, CRIT: gini, MAXFT: 0.3, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, MAX_SAMPLES: 500.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 493, FP: 188, FN: 54, TN: 362, Accuracy: 0.7794
+TREES: 100, CRIT: gini, MAXFT: 0.3, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, MAX_SAMPLES: 1500.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 487, FP: 201, FN: 60, TN: 349, Accuracy: 0.7621
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 5, IMPSPLIT: 0.01, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 488, FP: 183, FN: 59, TN: 367, Accuracy: 0.7794
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 5, IMPSPLIT: 0.1, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 488, FP: 186, FN: 59, TN: 364, Accuracy: 0.7767
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 5, IMPSPLIT: 0.2, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 494, FP: 186, FN: 53, TN: 364, Accuracy: 0.7821
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 20, IMPSPLIT: 0.01, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 487, FP: 189, FN: 60, TN: 361, Accuracy: 0.7730
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 20, IMPSPLIT: 0.1, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 491, FP: 193, FN: 56, TN: 357, Accuracy: 0.7730
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 20, IMPSPLIT: 0.2, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 489, FP: 182, FN: 58, TN: 368, Accuracy: 0.7812
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 50, IMPSPLIT: 0.01, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 492, FP: 196, FN: 55, TN: 354, Accuracy: 0.7712
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 50, IMPSPLIT: 0.1, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 481, FP: 202, FN: 66, TN: 348, Accuracy: 0.7557
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 50, IMPSPLIT: 0.2, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 488, FP: 202, FN: 59, TN: 348, Accuracy: 0.7621
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 5, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 5, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 482, FP: 176, FN: 65, TN: 374, Accuracy: 0.7803
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 10, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 495, FP: 191, FN: 52, TN: 359, Accuracy: 0.7785
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 20, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 486, FP: 206, FN: 61, TN: 344, Accuracy: 0.7566
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, 
+Training Results: TP: 2327, FP: 238, FN: 223, TN: 2212, Accuracy: 0.9078
+Testing Results: TP: 485, FP: 175, FN: 62, TN: 375, Accuracy: 0.7840
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 5, 
+Training Results: TP: 2329, FP: 246, FN: 221, TN: 2204, Accuracy: 0.9066
+Testing Results: TP: 479, FP: 171, FN: 68, TN: 379, Accuracy: 0.7821
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 10, 
+Training Results: TP: 2321, FP: 232, FN: 229, TN: 2218, Accuracy: 0.9078
+Testing Results: TP: 477, FP: 178, FN: 70, TN: 372, Accuracy: 0.7739
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 20, 
+Training Results: TP: 2324, FP: 228, FN: 226, TN: 2222, Accuracy: 0.9092
+Testing Results: TP: 479, FP: 162, FN: 68, TN: 388, Accuracy: 0.7903
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 20, 
+Training Results: TP: 2317, FP: 243, FN: 233, TN: 2207, Accuracy: 0.9048
+Testing Results: TP: 482, FP: 169, FN: 65, TN: 381, Accuracy: 0.7867
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 30, 
+Training Results: TP: 2316, FP: 240, FN: 234, TN: 2210, Accuracy: 0.9052
+Testing Results: TP: 484, FP: 190, FN: 63, TN: 360, Accuracy: 0.7694
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 40, 
+Training Results: TP: 2328, FP: 243, FN: 222, TN: 2207, Accuracy: 0.9070
+Testing Results: TP: 481, FP: 171, FN: 66, TN: 379, Accuracy: 0.7840
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 5, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 10, 
+Training Results: TP: 2319, FP: 241, FN: 231, TN: 2209, Accuracy: 0.9056
+Testing Results: TP: 483, FP: 168, FN: 64, TN: 382, Accuracy: 0.7885
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 10, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 10, 
+Training Results: TP: 2321, FP: 242, FN: 229, TN: 2208, Accuracy: 0.9058
+Testing Results: TP: 487, FP: 178, FN: 60, TN: 372, Accuracy: 0.7830
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: 20, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 10, 
+Training Results: TP: 2318, FP: 250, FN: 232, TN: 2200, Accuracy: 0.9036
+Testing Results: TP: 485, FP: 174, FN: 62, TN: 376, Accuracy: 0.7849
+TREES: 100, CRIT: gini, MAXFT: 0.3, MAXSMP: None, DEP: 5, SMPSPLIT: None, IMPSPLIT: None, SMPLF: 20, MAX_SAMPLES: None, 
+Training Results: TP: 2329, FP: 238, FN: 221, TN: 2212, Accuracy: 0.9082
+Testing Results: TP: 476, FP: 170, FN: 71, TN: 380, Accuracy: 0.7803
+TREES: 100, CRIT: gini, MAXFT: 0.3, MAXSMP: None, DEP: 5, SMPSPLIT: None, IMPSPLIT: 0.2, SMPLF: 20, MAX_SAMPLES: None, 
+Training Results: TP: 2329, FP: 243, FN: 221, TN: 2207, Accuracy: 0.9072
+Testing Results: TP: 481, FP: 166, FN: 66, TN: 384, Accuracy: 0.7885
+TREES: 100, CRIT: gini, MAXFT: 0.3, MAXSMP: None, DEP: 5, SMPSPLIT: None, IMPSPLIT: None, SMPLF: 20, MAX_SAMPLES: 1500.0, 
+Training Results: TP: 2336, FP: 240, FN: 214, TN: 2210, Accuracy: 0.9092
+Testing Results: TP: 481, FP: 181, FN: 66, TN: 369, Accuracy: 0.7748
+TREES: 100, CRIT: gini, MAXFT: 0.3, MAXSMP: None, DEP: 5, SMPSPLIT: None, IMPSPLIT: 0.2, SMPLF: 20, MAX_SAMPLES: 1500.0, 
+Training Results: TP: 2335, FP: 240, FN: 215, TN: 2210, Accuracy: 0.9090
+Testing Results: TP: 486, FP: 180, FN: 61, TN: 370, Accuracy: 0.7803
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 1, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 483, FP: 175, FN: 64, TN: 375, Accuracy: 0.7821
+TREES: 100, CRIT: gini, MAXFT: 1.0, MAXSMP: None, DEP: None, SMPSPLIT: 2, IMPSPLIT: 0.0, SMPLF: 1, 
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 490, FP: 197, FN: 57, TN: 353, Accuracy: 0.7685

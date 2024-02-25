@@ -1,0 +1,157 @@
+Experiment: Uniform data from 3 clusters. Time: Wed 06 Dec 2023, 07:58PM
+Clusters: 	2, BIC: 	2.1904448237760077, BIC Samples Only: 	1.8716848414989122
+Clusters: 	3, BIC: 	1.0844108162781616, BIC Samples Only: 	0.5865360194610512
+Clusters: 	4, BIC: 	3.570369621047507, BIC Samples Only: 	3.009911984642943
+
+Experiment: Spectral Clustering on entire MNIST digits dataset. Time: Wed 06 Dec 2023, 08:03PM
+Clusters: 	5, BIC: 	11.659188526449928, BIC Samples Only: 	9.738844297589814
+Clusters: 	6, BIC: 	14.033269293800974, BIC Samples Only: 	11.622302135910049
+Clusters: 	7, BIC: 	16.536354648444053, BIC Samples Only: 	13.429467079009314
+Clusters: 	8, BIC: 	18.976481061200722, BIC Samples Only: 	15.31773666832403
+Clusters: 	9, BIC: 	21.40943510704169, BIC Samples Only: 	17.278378473031456
+Clusters: 	10, BIC: 	23.766090629379665, BIC Samples Only: 	19.22593218086372
+Clusters: 	11, BIC: 	26.070887041153597, BIC Samples Only: 	21.240247806191917
+Clusters: 	12, BIC: 	28.474152689151243, BIC Samples Only: 	23.06431535229592
+Clusters: 	13, BIC: 	30.9708222493716, BIC Samples Only: 	25.084995682493602
+Clusters: 	14, BIC: 	33.11179801185924, BIC Samples Only: 	27.05554296127803
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digits dataset. Time: Wed 06 Dec 2023, 08:08PM
+Clusters: 	5, BIC: 	11.683586274394393, BIC Samples Only: 	9.547573275679452
+Clusters: 	6, BIC: 	13.612550542057967, BIC Samples Only: 	11.116965085929241
+Clusters: 	7, BIC: 	16.347240941863642, BIC Samples Only: 	13.309733811471697
+Clusters: 	8, BIC: 	18.543734177448886, BIC Samples Only: 	15.064613900054399
+Clusters: 	9, BIC: 	21.032759474509433, BIC Samples Only: 	17.13163990154409
+Clusters: 	10, BIC: 	23.210567188884323, BIC Samples Only: 	18.89862365007065
+Clusters: 	11, BIC: 	25.65884646694426, BIC Samples Only: 	20.817444598691424
+Clusters: 	12, BIC: 	28.237269620677754, BIC Samples Only: 	22.808318696194682
+Clusters: 	13, BIC: 	30.647884207669215, BIC Samples Only: 	24.811634097882052
+Clusters: 	14, BIC: 	32.95883626568507, BIC Samples Only: 	26.73516483871706
+
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 08:21PM
+Clusters: 	2, BIC: 	4.285718493132986, BIC Samples Only: 	3.8916329323056726
+Clusters: 	3, BIC: 	6.368373531705718, BIC Samples Only: 	5.734097438661528
+Clusters: 	4, BIC: 	8.17264089187037, BIC Samples Only: 	7.3370295009861
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 08:45PM
+Clusters: 	2, BIC: 	3.8485312146650674, BIC Samples Only: 	3.415612124221955
+Clusters: 	3, BIC: 	6.060787278923419, BIC Samples Only: 	5.5141802083275
+Clusters: 	4, BIC: 	8.682693363206576, BIC Samples Only: 	7.892216409418729
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 08:55PM
+Clusters: 	2, BIC: 	3.9965004558162143, BIC Samples Only: 	3.5554368219387387
+Clusters: 	3, BIC: 	5.935087535805925, BIC Samples Only: 	5.27473667685072
+Clusters: 	4, BIC: 	8.10377387288605, BIC Samples Only: 	7.221737921157504
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 08:57PM
+Clusters: 	2, BIC: 	3.974675874335105, BIC Samples Only: 	3.5966413859521986
+Clusters: 	3, BIC: 	6.32000213974414, BIC Samples Only: 	5.659723420282969
+Clusters: 	4, BIC: 	8.49761053949943, BIC Samples Only: 	7.645304053702512
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 09:29PM
+Clusters: 	2, BIC: 	3.617400380509614, BIC Samples Only: 	3.2049120527910753
+Clusters: 	3, BIC: 	5.882576920372992, BIC Samples Only: 	5.310149410167281
+Clusters: 	4, BIC: 	8.346839284021486, BIC Samples Only: 	7.582517215073088
+
+Experiment: Spectral Clustering on entire MNIST digits dataset. Time: Wed 06 Dec 2023, 09:33PM
+Clusters: 	5, BIC: 	11.87711108640883, BIC Samples Only: 	9.724373853602332
+Clusters: 	6, BIC: 	14.134061263585005, BIC Samples Only: 	11.415252046863676
+Clusters: 	7, BIC: 	16.662584821606796, BIC Samples Only: 	13.540958328367044
+Clusters: 	8, BIC: 	18.984598405401215, BIC Samples Only: 	15.323644456253078
+Clusters: 	9, BIC: 	21.31226208959288, BIC Samples Only: 	17.280216433182893
+Clusters: 	10, BIC: 	23.777216574431016, BIC Samples Only: 	19.243890586254572
+Clusters: 	11, BIC: 	25.951471778233657, BIC Samples Only: 	21.24120027470467
+Clusters: 	12, BIC: 	28.486403196322193, BIC Samples Only: 	23.048796564733475
+Clusters: 	13, BIC: 	31.01810639073137, BIC Samples Only: 	25.086915354362247
+Clusters: 	14, BIC: 	33.336060329531556, BIC Samples Only: 	26.957210081868908
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digits dataset. Time: Wed 06 Dec 2023, 09:39PM
+Clusters: 	5, BIC: 	11.788417878841052, BIC Samples Only: 	9.746414578324998
+Clusters: 	6, BIC: 	13.964336380550087, BIC Samples Only: 	11.516479137794503
+Clusters: 	7, BIC: 	16.500414481057007, BIC Samples Only: 	13.41380306086443
+Clusters: 	8, BIC: 	18.82678135862214, BIC Samples Only: 	15.408561124073993
+Clusters: 	9, BIC: 	20.892614572959793, BIC Samples Only: 	17.04967121348088
+Clusters: 	10, BIC: 	23.405310318720566, BIC Samples Only: 	19.062111580428226
+Clusters: 	11, BIC: 	25.789779636810323, BIC Samples Only: 	20.978623732801115
+Clusters: 	12, BIC: 	28.16864064532038, BIC Samples Only: 	22.911961693017474
+Clusters: 	13, BIC: 	30.54657947709417, BIC Samples Only: 	24.742083262686553
+Clusters: 	14, BIC: 	32.8731811159631, BIC Samples Only: 	26.630015904848005
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 09:43PM
+Clusters: 	2, BIC: 	3.862996499444222, BIC Samples Only: 	3.398332660330759
+Clusters: 	3, BIC: 	6.649515152561974, BIC Samples Only: 	5.9933244306534155
+Clusters: 	4, BIC: 	8.085627246557115, BIC Samples Only: 	7.191468404304224
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 09:52PM
+Clusters: 	2, BIC: 	3.7528696439758207, BIC Samples Only: 	3.299307537062593
+Clusters: 	3, BIC: 	5.987488256275012, BIC Samples Only: 	5.347892786805744
+Clusters: 	4, BIC: 	8.431835743642482, BIC Samples Only: 	7.679739286208983
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 09:56PM
+Clusters: 	2, BIC: 	3.686948235084008, BIC Samples Only: 	3.250989729354699
+Clusters: 	3, BIC: 	6.5499175610751585, BIC Samples Only: 	5.897112168841621
+Clusters: 	4, BIC: 	8.264540547540633, BIC Samples Only: 	7.4101086369211515
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 10:17PM
+Clusters: 	2, BIC: 	3.668061749182157, BIC Samples Only: 	3.260830198381067
+Clusters: 	3, BIC: 	6.554915016092817, BIC Samples Only: 	5.855359506826928
+Clusters: 	4, BIC: 	8.508249159054044, BIC Samples Only: 	7.700050665363714
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 10:24PM
+Clusters: 	2, BIC: 	4.10744885200416, BIC Samples Only: 	3.729820779824995
+Clusters: 	3, BIC: 	6.092320535144455, BIC Samples Only: 	5.431137655022138
+Clusters: 	4, BIC: 	8.603888743964447, BIC Samples Only: 	7.770003844439052
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 10:31PM
+Clusters: 	2, BIC: 	3.915266400756101, BIC Samples Only: 	3.49968813338058
+Clusters: 	3, BIC: 	6.364492163192408, BIC Samples Only: 	5.741118209815554
+Clusters: 	4, BIC: 	8.620613863741111, BIC Samples Only: 	7.771824502326297
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 10:35PM
+Clusters: 	2, BIC: 	4.195346214290153, BIC Samples Only: 	3.7559792125303026
+Clusters: 	3, BIC: 	6.152292879606779, BIC Samples Only: 	5.58109519628651
+Clusters: 	4, BIC: 	8.15614920303871, BIC Samples Only: 	7.395150484646007
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 10:53PM
+Clusters: 	2, BIC: 	3.834834665321785, BIC Samples Only: 	3.4049103954195656
+Clusters: 	3, BIC: 	6.167590388251621, BIC Samples Only: 	5.572358147201772
+Clusters: 	4, BIC: 	8.20805357980422, BIC Samples Only: 	7.434079115332265
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 11:00PM
+Clusters: 	2, BIC: 	3.9310777367204786, BIC Samples Only: 	3.541456313340964
+Clusters: 	3, BIC: 	6.335635152199526, BIC Samples Only: 	5.7714164307240265
+Clusters: 	4, BIC: 	8.442083493245292, BIC Samples Only: 	7.579925793938859
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 11:03PM
+Clusters: 	2, BIC: 	4.1075602013590355, BIC Samples Only: 	3.792507784212414
+Clusters: 	3, BIC: 	6.159014897539755, BIC Samples Only: 	5.5148545835746745
+Clusters: 	4, BIC: 	8.651551435838847, BIC Samples Only: 	7.7337538159290515
+
+Experiment: Spectral Clustering on entire MNIST digits dataset. Time: Wed 06 Dec 2023, 11:13PM
+Clusters: 	5, BIC: 	11.75846656275895, BIC Samples Only: 	9.642411134041009
+Clusters: 	6, BIC: 	14.24804500436234, BIC Samples Only: 	11.546477791510437
+Clusters: 	7, BIC: 	16.257559088800043, BIC Samples Only: 	13.516275652644548
+Clusters: 	8, BIC: 	18.657312601454418, BIC Samples Only: 	14.968566215627947
+Clusters: 	9, BIC: 	21.40540145334243, BIC Samples Only: 	17.318761714179495
+Clusters: 	10, BIC: 	23.718526988898592, BIC Samples Only: 	19.234297274743973
+Clusters: 	11, BIC: 	25.93188729098535, BIC Samples Only: 	21.252374207229277
+Clusters: 	12, BIC: 	28.530548682267295, BIC Samples Only: 	23.090918700350112
+Clusters: 	13, BIC: 	30.94754830738344, BIC Samples Only: 	25.04397619567999
+Clusters: 	14, BIC: 	33.35806635294266, BIC Samples Only: 	26.942423757329927
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digits dataset. Time: Wed 06 Dec 2023, 11:19PM
+Clusters: 	5, BIC: 	11.46029958080873, BIC Samples Only: 	9.413389204979186
+Clusters: 	6, BIC: 	14.060405478078948, BIC Samples Only: 	11.52986121085609
+Clusters: 	7, BIC: 	16.1868541320917, BIC Samples Only: 	13.381954230088635
+Clusters: 	8, BIC: 	18.73720360270585, BIC Samples Only: 	15.321030894026038
+Clusters: 	9, BIC: 	20.944869993062483, BIC Samples Only: 	16.99613324723097
+Clusters: 	10, BIC: 	23.36972395681808, BIC Samples Only: 	18.9374941886141
+Clusters: 	11, BIC: 	25.742846945421412, BIC Samples Only: 	20.84850367602635
+Clusters: 	12, BIC: 	28.19599392997551, BIC Samples Only: 	22.799490113160772
+Clusters: 	13, BIC: 	30.418678008956466, BIC Samples Only: 	24.641732095190644
+Clusters: 	14, BIC: 	32.829780113923235, BIC Samples Only: 	26.63351746964405
+
+Experiment: Spectral Clustering on first 45 PCAs of MNIST digit 3. Time: Wed 06 Dec 2023, 11:23PM
+Clusters: 	2, BIC: 	3.8031584524093733, BIC Samples Only: 	3.350011572244475
+Clusters: 	3, BIC: 	6.120407869810249, BIC Samples Only: 	5.448413069963182
+Clusters: 	4, BIC: 	8.332604301474923, BIC Samples Only: 	7.587934262125338

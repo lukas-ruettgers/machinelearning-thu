@@ -1,0 +1,23 @@
+numeric_UseBernoulli: True, 
+Training Results: TP: 1648, FP: 399, FN: 902, TN: 2051, Accuracy: 0.7398
+
+binary_UseBernoulli: True, 
+Training Results: TP: 1770, FP: 676, FN: 780, TN: 1774, Accuracy: 0.7088
+
+composite_UseBernoulli: True, 
+Training Results: TP: 1864, FP: 522, FN: 686, TN: 1928, Accuracy: 0.7584
+Testing Results: TP: 481, FP: 268, FN: 66, TN: 282, Accuracy: 0.6955
+Risk Decision Test Results (lambda00=0.05, lambda01=10, lambda10=1, lambda11=0): TP: 524, FP: 417, FN: 23, TN: 133, Accuracy: 0.5989
+Risk Decision Test Results (lambda00=0.2, lambda01=10, lambda10=1, lambda11=0): TP: 530, FP: 439, FN: 17, TN: 111, Accuracy: 0.5843
+
+numeric_UseBernoulli: False, 
+Training Results: TP: 1648, FP: 399, FN: 902, TN: 2051, Accuracy: 0.7398
+
+binary_UseBernoulli: False, 
+Training Results: TP: 1849, FP: 810, FN: 701, TN: 1640, Accuracy: 0.6978
+
+composite_UseBernoulli: False, 
+Training Results: TP: 1814, FP: 468, FN: 736, TN: 1982, Accuracy: 0.7592
+Testing Results: TP: 478, FP: 251, FN: 69, TN: 299, Accuracy: 0.7083
+Risk Decision Test Results (lambda00=0.05, lambda01=10, lambda10=1, lambda11=0): TP: 539, FP: 454, FN: 8, TN: 96, Accuracy: 0.5789
+Risk Decision Test Results (lambda00=0.2, lambda01=10, lambda10=1, lambda11=0): TP: 540, FP: 463, FN: 7, TN: 87, Accuracy: 0.5716

@@ -1,0 +1,5 @@
+matplotlib
+numpy
+idx2numpy
+umap-learn
+pca

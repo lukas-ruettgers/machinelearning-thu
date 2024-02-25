@@ -1,0 +1,180 @@
+
+LR: 0.1, TI: 200, MR: 0.9, RR: 0.0001
+Training Results: TP: 2545, FP: 5, FN: 0, TN: 2450, Accuracy: 0.9990
+Testing Results: TP: 447, FP: 100, FN: 180, TN: 370, Accuracy: 0.7448
+
+LR: 0.1, TI: 400, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 444, FP: 103, FN: 194, TN: 356, Accuracy: 0.7293
+
+LR: 0.1, TI: 600, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 450, FP: 97, FN: 188, TN: 362, Accuracy: 0.7402
+
+LR: 0.1, TI: 800, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 432, FP: 115, FN: 163, TN: 387, Accuracy: 0.7466
+
+LR: 0.1, TI: 1000, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 453, FP: 94, FN: 202, TN: 348, Accuracy: 0.7302
+
+LR: 0.05, TI: 200, MR: 0.9, RR: 0.0001
+Training Results: TP: 2510, FP: 40, FN: 236, TN: 2214, Accuracy: 0.9448
+Testing Results: TP: 471, FP: 76, FN: 219, TN: 331, Accuracy: 0.7311
+
+LR: 0.05, TI: 400, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 437, FP: 110, FN: 177, TN: 373, Accuracy: 0.7384
+
+LR: 0.05, TI: 600, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 453, FP: 94, FN: 184, TN: 366, Accuracy: 0.7466
+
+LR: 0.05, TI: 800, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 454, FP: 93, FN: 229, TN: 321, Accuracy: 0.7065
+
+LR: 0.05, TI: 1000, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 452, FP: 95, FN: 200, TN: 350, Accuracy: 0.7311
+
+LR: 0.01, TI: 200, MR: 0.9, RR: 0.0001
+Training Results: TP: 2080, FP: 470, FN: 338, TN: 2112, Accuracy: 0.8384
+Testing Results: TP: 448, FP: 99, FN: 134, TN: 416, Accuracy: 0.7876
+
+LR: 0.01, TI: 400, MR: 0.9, RR: 0.0001
+Training Results: TP: 2418, FP: 132, FN: 354, TN: 2096, Accuracy: 0.9028
+Testing Results: TP: 484, FP: 63, FN: 205, TN: 345, Accuracy: 0.7557
+
+LR: 0.01, TI: 600, MR: 0.9, RR: 0.0001
+Training Results: TP: 2429, FP: 121, FN: 117, TN: 2333, Accuracy: 0.9524
+Testing Results: TP: 461, FP: 86, FN: 189, TN: 361, Accuracy: 0.7493
+
+LR: 0.01, TI: 800, MR: 0.9, RR: 0.0001
+Training Results: TP: 2441, FP: 109, FN: 17, TN: 2433, Accuracy: 0.9748
+Testing Results: TP: 444, FP: 103, FN: 169, TN: 381, Accuracy: 0.7521
+
+LR: 0.01, TI: 1000, MR: 0.9, RR: 0.0001
+Training Results: TP: 2545, FP: 5, FN: 13, TN: 2437, Accuracy: 0.9964
+Testing Results: TP: 464, FP: 83, FN: 193, TN: 357, Accuracy: 0.7484
+
+LR: 0.001, TI: 200, MR: 0.9, RR: 0.0001
+Training Results: TP: 2009, FP: 541, FN: 510, TN: 1940, Accuracy: 0.7898
+Testing Results: TP: 431, FP: 116, FN: 128, TN: 422, Accuracy: 0.7776
+
+LR: 0.001, TI: 400, MR: 0.9, RR: 0.0001
+Training Results: TP: 2040, FP: 510, FN: 493, TN: 1957, Accuracy: 0.7994
+Testing Results: TP: 437, FP: 110, FN: 128, TN: 422, Accuracy: 0.7830
+
+LR: 0.001, TI: 600, MR: 0.9, RR: 0.0001
+Training Results: TP: 2053, FP: 497, FN: 496, TN: 1954, Accuracy: 0.8014
+Testing Results: TP: 444, FP: 103, FN: 131, TN: 419, Accuracy: 0.7867
+
+LR: 0.001, TI: 800, MR: 0.9, RR: 0.0001
+Training Results: TP: 2082, FP: 468, FN: 495, TN: 1955, Accuracy: 0.8074
+Testing Results: TP: 455, FP: 92, FN: 141, TN: 409, Accuracy: 0.7876
+
+LR: 0.001, TI: 1000, MR: 0.9, RR: 0.0001
+Training Results: TP: 2046, FP: 504, FN: 434, TN: 2016, Accuracy: 0.8124
+Testing Results: TP: 434, FP: 113, FN: 123, TN: 427, Accuracy: 0.7849
+
+LR: 0.001, TI: 200, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1872, FP: 678, FN: 559, TN: 1891, Accuracy: 0.7526
+Training Results: TP: 392, FP: 155, FN: 116, TN: 434, Accuracy: 0.7530
+
+LR: 0.001, TI: 400, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1947, FP: 603, FN: 547, TN: 1903, Accuracy: 0.7700
+Training Results: TP: 417, FP: 130, FN: 118, TN: 432, Accuracy: 0.7739
+
+LR: 0.001, TI: 600, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1984, FP: 566, FN: 537, TN: 1913, Accuracy: 0.7794
+Training Results: TP: 428, FP: 119, FN: 125, TN: 425, Accuracy: 0.7776
+
+LR: 0.001, TI: 800, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1994, FP: 556, FN: 523, TN: 1927, Accuracy: 0.7842
+Training Results: TP: 424, FP: 123, FN: 126, TN: 424, Accuracy: 0.7730
+
+LR: 0.001, TI: 1000, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1998, FP: 552, FN: 516, TN: 1934, Accuracy: 0.7864
+Training Results: TP: 425, FP: 122, FN: 121, TN: 429, Accuracy: 0.7785
+
+LR: 0.001, TI: 2000, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1997, FP: 553, FN: 519, TN: 1931, Accuracy: 0.7856
+Training Results: TP: 420, FP: 127, FN: 120, TN: 430, Accuracy: 0.7748
+
+LR: 0.1, TI: 1000, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2543, FP: 7, FN: 7, TN: 2443, Accuracy: 0.9972
+Training Results: TP: 439, FP: 108, FN: 177, TN: 373, Accuracy: 0.7402
+
+LR: 0.05, TI: 1000, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2312, FP: 238, FN: 220, TN: 2230, Accuracy: 0.9084
+Training Results: TP: 450, FP: 97, FN: 177, TN: 373, Accuracy: 0.7502
+
+LR: 0.01, TI: 1000, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2014, FP: 536, FN: 467, TN: 1983, Accuracy: 0.7994
+Training Results: TP: 447, FP: 100, FN: 141, TN: 409, Accuracy: 0.7803
+
+LR: 0.001, TI: 1000, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1990, FP: 560, FN: 517, TN: 1933, Accuracy: 0.7846
+Training Results: TP: 425, FP: 122, FN: 122, TN: 428, Accuracy: 0.7776
+
+LR: 0.1, TI: 200, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2059, FP: 491, FN: 423, TN: 2027, Accuracy: 0.8172
+Training Results: TP: 465, FP: 82, FN: 150, TN: 400, Accuracy: 0.7885
+
+LR: 0.1, TI: 400, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 1991, FP: 559, FN: 170, TN: 2280, Accuracy: 0.8542
+Training Results: TP: 423, FP: 124, FN: 118, TN: 432, Accuracy: 0.7794
+
+LR: 0.1, TI: 600, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2328, FP: 222, FN: 190, TN: 2260, Accuracy: 0.9176
+Training Results: TP: 441, FP: 106, FN: 169, TN: 381, Accuracy: 0.7493
+
+LR: 0.1, TI: 800, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2497, FP: 53, FN: 68, TN: 2382, Accuracy: 0.9758
+Training Results: TP: 446, FP: 101, FN: 197, TN: 353, Accuracy: 0.7284
+
+LR: 0.05, TI: 200, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2054, FP: 496, FN: 480, TN: 1970, Accuracy: 0.8048
+Training Results: TP: 450, FP: 97, FN: 145, TN: 405, Accuracy: 0.7794
+
+LR: 0.05, TI: 400, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2071, FP: 479, FN: 388, TN: 2062, Accuracy: 0.8266
+Training Results: TP: 464, FP: 83, FN: 147, TN: 403, Accuracy: 0.7903
+
+LR: 0.05, TI: 600, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2206, FP: 344, FN: 410, TN: 2040, Accuracy: 0.8492
+Training Results: TP: 478, FP: 69, FN: 183, TN: 367, Accuracy: 0.7703
+
+LR: 0.05, TI: 800, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2260, FP: 290, FN: 334, TN: 2116, Accuracy: 0.8752
+Training Results: TP: 465, FP: 82, FN: 179, TN: 371, Accuracy: 0.7621
+
+LR: 0.01, TI: 200, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2065, FP: 485, FN: 553, TN: 1897, Accuracy: 0.7924
+Training Results: TP: 447, FP: 100, FN: 138, TN: 412, Accuracy: 0.7830
+
+LR: 0.01, TI: 400, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2066, FP: 484, FN: 538, TN: 1912, Accuracy: 0.7956
+Training Results: TP: 455, FP: 92, FN: 139, TN: 411, Accuracy: 0.7894
+
+LR: 0.01, TI: 600, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2066, FP: 484, FN: 523, TN: 1927, Accuracy: 0.7986
+Training Results: TP: 455, FP: 92, FN: 145, TN: 405, Accuracy: 0.7840
+
+LR: 0.01, TI: 800, ACT: logistic, MR: 0.9, RR: 0.0001
+Training Results: TP: 2069, FP: 481, FN: 516, TN: 1934, Accuracy: 0.8006
+Training Results: TP: 458, FP: 89, FN: 154, TN: 396, Accuracy: 0.7785
+
+LR: 0.05, TI: 1000, ACT: relu, MR: 1, RR: 0.0001
+Training Results: TP: 2318, FP: 232, FN: 305, TN: 2145, Accuracy: 0.8926
+Testing Results: TP: 459, FP: 88, FN: 192, TN: 358, Accuracy: 0.7448
+
+LR: 0.05, TI: 1000, ACT: relu, MR: 0.9, RR: 0.0001
+Training Results: TP: 2550, FP: 0, FN: 0, TN: 2450, Accuracy: 1.0000
+Testing Results: TP: 446, FP: 101, FN: 195, TN: 355, Accuracy: 0.7302
+
+LR: 0.05, TI: 1000, ACT: relu, MR: 0.5, RR: 0.0001
+Training Results: TP: 2537, FP: 13, FN: 369, TN: 2081, Accuracy: 0.9236
+Testing Results: TP: 495, FP: 52, FN: 255, TN: 295, Accuracy: 0.7201

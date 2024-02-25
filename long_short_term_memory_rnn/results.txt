@@ -1,0 +1,547 @@
+
+
+Experiment Model: Baseline, Time: Sat 30 Dec 2023, 05:48PM
+Parameters: EMBEDDING_DIM: 16, HIDDEN_DIM: 16, LSTM_LAYERS: 1, NOLSTM: False, 
+Epoch	 1, Average Loss:0.0138, Average Acc: 0.3124, CV Loss:0.0138, CV Acc: 0.5010
+Epoch	 2, Average Loss:0.0135, Average Acc: 0.5041, CV Loss:0.0132, CV Acc: 0.5007
+Epoch	 3, Average Loss:0.0128, Average Acc: 0.5196, CV Loss:0.0123, CV Acc: 0.5980
+Epoch	 4, Average Loss:0.0118, Average Acc: 0.6386, CV Loss:0.0114, CV Acc: 0.6723
+Epoch	 5, Average Loss:0.0110, Average Acc: 0.6743, CV Loss:0.0107, CV Acc: 0.6898
+Epoch	 6, Average Loss:0.0105, Average Acc: 0.7024, CV Loss:0.0103, CV Acc: 0.7302
+Epoch	 7, Average Loss:0.0101, Average Acc: 0.7584, CV Loss:0.0100, CV Acc: 0.7882
+Epoch	 8, Average Loss:0.0098, Average Acc: 0.8087, CV Loss:0.0096, CV Acc: 0.8222
+Epoch	 9, Average Loss:0.0095, Average Acc: 0.8355, CV Loss:0.0094, CV Acc: 0.8387
+Epoch	10, Average Loss:0.0092, Average Acc: 0.8526, CV Loss:0.0091, CV Acc: 0.8537
+Epoch	11, Average Loss:0.0090, Average Acc: 0.8675, CV Loss:0.0089, CV Acc: 0.8665
+Epoch	12, Average Loss:0.0088, Average Acc: 0.8789, CV Loss:0.0088, CV Acc: 0.8738
+Epoch	13, Average Loss:0.0087, Average Acc: 0.8869, CV Loss:0.0087, CV Acc: 0.8812
+Epoch	14, Average Loss:0.0086, Average Acc: 0.8934, CV Loss:0.0086, CV Acc: 0.8855
+Epoch	15, Average Loss:0.0085, Average Acc: 0.8988, CV Loss:0.0086, CV Acc: 0.8915
+Epoch	16, Average Loss:0.0085, Average Acc: 0.9031, CV Loss:0.0085, CV Acc: 0.8962
+Epoch	17, Average Loss:0.0084, Average Acc: 0.9070, CV Loss:0.0085, CV Acc: 0.8968
+Epoch	18, Average Loss:0.0084, Average Acc: 0.9107, CV Loss:0.0085, CV Acc: 0.8990
+Epoch	19, Average Loss:0.0083, Average Acc: 0.9135, CV Loss:0.0085, CV Acc: 0.9007
+Epoch	20, Average Loss:0.0083, Average Acc: 0.9163, CV Loss:0.0084, CV Acc: 0.9025
+Epoch	21, Average Loss:0.0083, Average Acc: 0.9188, CV Loss:0.0084, CV Acc: 0.9040
+Epoch	22, Average Loss:0.0083, Average Acc: 0.9213, CV Loss:0.0084, CV Acc: 0.9047
+Epoch	23, Average Loss:0.0082, Average Acc: 0.9235, CV Loss:0.0084, CV Acc: 0.9058
+Epoch	24, Average Loss:0.0082, Average Acc: 0.9257, CV Loss:0.0084, CV Acc: 0.9072
+Epoch	25, Average Loss:0.0082, Average Acc: 0.9277, CV Loss:0.0084, CV Acc: 0.9068
+Epoch	26, Average Loss:0.0082, Average Acc: 0.9294, CV Loss:0.0084, CV Acc: 0.9073
+Epoch	27, Average Loss:0.0082, Average Acc: 0.9311, CV Loss:0.0084, CV Acc: 0.9085
+Epoch	28, Average Loss:0.0081, Average Acc: 0.9327, CV Loss:0.0083, CV Acc: 0.9097
+Epoch	29, Average Loss:0.0081, Average Acc: 0.9342, CV Loss:0.0083, CV Acc: 0.9105
+Epoch	30, Average Loss:0.0081, Average Acc: 0.9356, CV Loss:0.0083, CV Acc: 0.9117
+Epoch	31, Average Loss:0.0081, Average Acc: 0.9370, CV Loss:0.0083, CV Acc: 0.9123
+Epoch	32, Average Loss:0.0081, Average Acc: 0.9383, CV Loss:0.0083, CV Acc: 0.9130
+Epoch	33, Average Loss:0.0081, Average Acc: 0.9394, CV Loss:0.0083, CV Acc: 0.9133
+Epoch	34, Average Loss:0.0081, Average Acc: 0.9406, CV Loss:0.0083, CV Acc: 0.9132
+Epoch	35, Average Loss:0.0080, Average Acc: 0.9417, CV Loss:0.0083, CV Acc: 0.9132
+Epoch	36, Average Loss:0.0080, Average Acc: 0.9429, CV Loss:0.0083, CV Acc: 0.9133
+Epoch	37, Average Loss:0.0080, Average Acc: 0.9441, CV Loss:0.0083, CV Acc: 0.9138
+Epoch	38, Average Loss:0.0080, Average Acc: 0.9450, CV Loss:0.0083, CV Acc: 0.9140
+Epoch	39, Average Loss:0.0080, Average Acc: 0.9460, CV Loss:0.0083, CV Acc: 0.9138
+Epoch	40, Average Loss:0.0080, Average Acc: 0.9468, CV Loss:0.0083, CV Acc: 0.9137
+Epoch	41, Average Loss:0.0080, Average Acc: 0.9478, CV Loss:0.0083, CV Acc: 0.9142
+Epoch	42, Average Loss:0.0080, Average Acc: 0.9487, CV Loss:0.0083, CV Acc: 0.9148
+Epoch	43, Average Loss:0.0080, Average Acc: 0.9496, CV Loss:0.0083, CV Acc: 0.9150
+Epoch	44, Average Loss:0.0080, Average Acc: 0.9505, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	45, Average Loss:0.0079, Average Acc: 0.9513, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	46, Average Loss:0.0079, Average Acc: 0.9521, CV Loss:0.0083, CV Acc: 0.9148
+Epoch	47, Average Loss:0.0079, Average Acc: 0.9527, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	48, Average Loss:0.0079, Average Acc: 0.9534, CV Loss:0.0083, CV Acc: 0.9142
+Epoch	49, Average Loss:0.0079, Average Acc: 0.9541, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	50, Average Loss:0.0079, Average Acc: 0.9548, CV Loss:0.0083, CV Acc: 0.9143
+Epoch	51, Average Loss:0.0079, Average Acc: 0.9554, CV Loss:0.0083, CV Acc: 0.9148
+Epoch	52, Average Loss:0.0079, Average Acc: 0.9559, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	53, Average Loss:0.0079, Average Acc: 0.9565, CV Loss:0.0083, CV Acc: 0.9142
+Epoch	54, Average Loss:0.0079, Average Acc: 0.9572, CV Loss:0.0083, CV Acc: 0.9140
+Epoch	55, Average Loss:0.0079, Average Acc: 0.9577, CV Loss:0.0083, CV Acc: 0.9143
+Epoch	56, Average Loss:0.0079, Average Acc: 0.9582, CV Loss:0.0083, CV Acc: 0.9143
+Epoch	57, Average Loss:0.0079, Average Acc: 0.9587, CV Loss:0.0083, CV Acc: 0.9152
+Epoch	58, Average Loss:0.0079, Average Acc: 0.9591, CV Loss:0.0083, CV Acc: 0.9157
+Epoch	59, Average Loss:0.0079, Average Acc: 0.9596, CV Loss:0.0083, CV Acc: 0.9153
+Epoch	60, Average Loss:0.0078, Average Acc: 0.9602, CV Loss:0.0083, CV Acc: 0.9157
+Epoch	61, Average Loss:0.0078, Average Acc: 0.9608, CV Loss:0.0083, CV Acc: 0.9165
+Epoch	62, Average Loss:0.0078, Average Acc: 0.9612, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	63, Average Loss:0.0078, Average Acc: 0.9616, CV Loss:0.0083, CV Acc: 0.9167
+Epoch	64, Average Loss:0.0078, Average Acc: 0.9619, CV Loss:0.0083, CV Acc: 0.9167
+Epoch	65, Average Loss:0.0078, Average Acc: 0.9624, CV Loss:0.0083, CV Acc: 0.9165
+Epoch	66, Average Loss:0.0078, Average Acc: 0.9628, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	67, Average Loss:0.0078, Average Acc: 0.9631, CV Loss:0.0083, CV Acc: 0.9160
+Epoch	68, Average Loss:0.0078, Average Acc: 0.9634, CV Loss:0.0083, CV Acc: 0.9167
+Epoch	69, Average Loss:0.0078, Average Acc: 0.9638, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	70, Average Loss:0.0078, Average Acc: 0.9642, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	71, Average Loss:0.0078, Average Acc: 0.9645, CV Loss:0.0083, CV Acc: 0.9162
+Epoch	72, Average Loss:0.0078, Average Acc: 0.9649, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	73, Average Loss:0.0078, Average Acc: 0.9652, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	74, Average Loss:0.0078, Average Acc: 0.9655, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	75, Average Loss:0.0078, Average Acc: 0.9657, CV Loss:0.0083, CV Acc: 0.9162
+Epoch	76, Average Loss:0.0078, Average Acc: 0.9660, CV Loss:0.0083, CV Acc: 0.9158
+Epoch	77, Average Loss:0.0078, Average Acc: 0.9663, CV Loss:0.0083, CV Acc: 0.9162
+Epoch	78, Average Loss:0.0078, Average Acc: 0.9666, CV Loss:0.0083, CV Acc: 0.9162
+Epoch	79, Average Loss:0.0078, Average Acc: 0.9669, CV Loss:0.0083, CV Acc: 0.9157
+Epoch	80, Average Loss:0.0078, Average Acc: 0.9671, CV Loss:0.0083, CV Acc: 0.9155
+
+-- TEST RESULTS --
+Test Accuracy: 0.9091, Test Loss: 0.0083
+Confusion matrix (truth,prediction)
+0.9048	0.0265	0.0402	0.0285	
+0.0111	0.9748	0.0090	0.0051	
+0.0337	0.0070	0.8822	0.0770	
+0.0361	0.0100	0.0857	0.8682	
+
+Experiment Model: Double Embedding, Time: Sat 30 Dec 2023, 05:55PM
+Parameters: EMBEDDING_DIM: 32, HIDDEN_DIM: 16, LSTM_LAYERS: 1, NOLSTM: False, 
+Epoch	 1, Average Loss:0.0138, Average Acc: 0.3874, CV Loss:0.0137, CV Acc: 0.5632
+Epoch	 2, Average Loss:0.0134, Average Acc: 0.5193, CV Loss:0.0128, CV Acc: 0.5088
+Epoch	 3, Average Loss:0.0122, Average Acc: 0.5684, CV Loss:0.0116, CV Acc: 0.6953
+Epoch	 4, Average Loss:0.0110, Average Acc: 0.7746, CV Loss:0.0105, CV Acc: 0.8228
+Epoch	 5, Average Loss:0.0100, Average Acc: 0.8447, CV Loss:0.0096, CV Acc: 0.8575
+Epoch	 6, Average Loss:0.0092, Average Acc: 0.8676, CV Loss:0.0091, CV Acc: 0.8735
+Epoch	 7, Average Loss:0.0089, Average Acc: 0.8822, CV Loss:0.0088, CV Acc: 0.8828
+Epoch	 8, Average Loss:0.0087, Average Acc: 0.8915, CV Loss:0.0087, CV Acc: 0.8878
+Epoch	 9, Average Loss:0.0086, Average Acc: 0.8987, CV Loss:0.0086, CV Acc: 0.8920
+Epoch	10, Average Loss:0.0085, Average Acc: 0.9044, CV Loss:0.0085, CV Acc: 0.8958
+Epoch	11, Average Loss:0.0084, Average Acc: 0.9095, CV Loss:0.0085, CV Acc: 0.9000
+Epoch	12, Average Loss:0.0084, Average Acc: 0.9132, CV Loss:0.0085, CV Acc: 0.9010
+Epoch	13, Average Loss:0.0083, Average Acc: 0.9169, CV Loss:0.0084, CV Acc: 0.9027
+Epoch	14, Average Loss:0.0083, Average Acc: 0.9202, CV Loss:0.0084, CV Acc: 0.9052
+Epoch	15, Average Loss:0.0082, Average Acc: 0.9228, CV Loss:0.0084, CV Acc: 0.9068
+Epoch	16, Average Loss:0.0082, Average Acc: 0.9253, CV Loss:0.0084, CV Acc: 0.9082
+Epoch	17, Average Loss:0.0082, Average Acc: 0.9278, CV Loss:0.0084, CV Acc: 0.9100
+Epoch	18, Average Loss:0.0082, Average Acc: 0.9302, CV Loss:0.0083, CV Acc: 0.9115
+Epoch	19, Average Loss:0.0081, Average Acc: 0.9322, CV Loss:0.0083, CV Acc: 0.9140
+Epoch	20, Average Loss:0.0081, Average Acc: 0.9342, CV Loss:0.0083, CV Acc: 0.9135
+Epoch	21, Average Loss:0.0081, Average Acc: 0.9364, CV Loss:0.0083, CV Acc: 0.9135
+Epoch	22, Average Loss:0.0081, Average Acc: 0.9381, CV Loss:0.0083, CV Acc: 0.9142
+Epoch	23, Average Loss:0.0081, Average Acc: 0.9397, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	24, Average Loss:0.0081, Average Acc: 0.9412, CV Loss:0.0083, CV Acc: 0.9155
+Epoch	25, Average Loss:0.0080, Average Acc: 0.9426, CV Loss:0.0083, CV Acc: 0.9160
+Epoch	26, Average Loss:0.0080, Average Acc: 0.9441, CV Loss:0.0083, CV Acc: 0.9167
+Epoch	27, Average Loss:0.0080, Average Acc: 0.9453, CV Loss:0.0083, CV Acc: 0.9178
+Epoch	28, Average Loss:0.0080, Average Acc: 0.9467, CV Loss:0.0083, CV Acc: 0.9182
+Epoch	29, Average Loss:0.0080, Average Acc: 0.9479, CV Loss:0.0083, CV Acc: 0.9190
+Epoch	30, Average Loss:0.0080, Average Acc: 0.9491, CV Loss:0.0083, CV Acc: 0.9190
+Epoch	31, Average Loss:0.0080, Average Acc: 0.9501, CV Loss:0.0083, CV Acc: 0.9190
+Epoch	32, Average Loss:0.0079, Average Acc: 0.9511, CV Loss:0.0083, CV Acc: 0.9188
+Epoch	33, Average Loss:0.0079, Average Acc: 0.9522, CV Loss:0.0082, CV Acc: 0.9190
+Epoch	34, Average Loss:0.0079, Average Acc: 0.9531, CV Loss:0.0082, CV Acc: 0.9193
+Epoch	35, Average Loss:0.0079, Average Acc: 0.9540, CV Loss:0.0082, CV Acc: 0.9195
+Epoch	36, Average Loss:0.0079, Average Acc: 0.9550, CV Loss:0.0082, CV Acc: 0.9195
+Epoch	37, Average Loss:0.0079, Average Acc: 0.9558, CV Loss:0.0082, CV Acc: 0.9193
+Epoch	38, Average Loss:0.0079, Average Acc: 0.9565, CV Loss:0.0082, CV Acc: 0.9205
+Epoch	39, Average Loss:0.0079, Average Acc: 0.9573, CV Loss:0.0082, CV Acc: 0.9207
+Epoch	40, Average Loss:0.0079, Average Acc: 0.9581, CV Loss:0.0082, CV Acc: 0.9208
+Epoch	41, Average Loss:0.0079, Average Acc: 0.9589, CV Loss:0.0082, CV Acc: 0.9212
+Epoch	42, Average Loss:0.0079, Average Acc: 0.9597, CV Loss:0.0082, CV Acc: 0.9212
+Epoch	43, Average Loss:0.0079, Average Acc: 0.9603, CV Loss:0.0082, CV Acc: 0.9207
+Epoch	44, Average Loss:0.0078, Average Acc: 0.9609, CV Loss:0.0082, CV Acc: 0.9210
+Epoch	45, Average Loss:0.0078, Average Acc: 0.9615, CV Loss:0.0082, CV Acc: 0.9218
+Epoch	46, Average Loss:0.0078, Average Acc: 0.9621, CV Loss:0.0082, CV Acc: 0.9213
+Epoch	47, Average Loss:0.0078, Average Acc: 0.9627, CV Loss:0.0082, CV Acc: 0.9210
+Epoch	48, Average Loss:0.0078, Average Acc: 0.9633, CV Loss:0.0082, CV Acc: 0.9212
+Epoch	49, Average Loss:0.0078, Average Acc: 0.9639, CV Loss:0.0082, CV Acc: 0.9213
+Epoch	50, Average Loss:0.0078, Average Acc: 0.9646, CV Loss:0.0082, CV Acc: 0.9213
+Epoch	51, Average Loss:0.0078, Average Acc: 0.9651, CV Loss:0.0082, CV Acc: 0.9215
+Epoch	52, Average Loss:0.0078, Average Acc: 0.9655, CV Loss:0.0082, CV Acc: 0.9212
+Epoch	53, Average Loss:0.0078, Average Acc: 0.9660, CV Loss:0.0082, CV Acc: 0.9207
+Epoch	54, Average Loss:0.0078, Average Acc: 0.9665, CV Loss:0.0082, CV Acc: 0.9210
+Epoch	55, Average Loss:0.0078, Average Acc: 0.9669, CV Loss:0.0082, CV Acc: 0.9205
+Epoch	56, Average Loss:0.0078, Average Acc: 0.9673, CV Loss:0.0082, CV Acc: 0.9205
+Epoch	57, Average Loss:0.0078, Average Acc: 0.9678, CV Loss:0.0082, CV Acc: 0.9203
+Epoch	58, Average Loss:0.0078, Average Acc: 0.9682, CV Loss:0.0082, CV Acc: 0.9200
+Epoch	59, Average Loss:0.0078, Average Acc: 0.9686, CV Loss:0.0082, CV Acc: 0.9203
+Epoch	60, Average Loss:0.0078, Average Acc: 0.9689, CV Loss:0.0082, CV Acc: 0.9205
+Epoch	61, Average Loss:0.0078, Average Acc: 0.9693, CV Loss:0.0082, CV Acc: 0.9208
+Epoch	62, Average Loss:0.0077, Average Acc: 0.9696, CV Loss:0.0082, CV Acc: 0.9203
+Epoch	63, Average Loss:0.0077, Average Acc: 0.9699, CV Loss:0.0082, CV Acc: 0.9200
+Epoch	64, Average Loss:0.0077, Average Acc: 0.9702, CV Loss:0.0082, CV Acc: 0.9198
+Epoch	65, Average Loss:0.0077, Average Acc: 0.9706, CV Loss:0.0082, CV Acc: 0.9200
+Epoch	66, Average Loss:0.0077, Average Acc: 0.9709, CV Loss:0.0082, CV Acc: 0.9195
+Epoch	67, Average Loss:0.0077, Average Acc: 0.9712, CV Loss:0.0082, CV Acc: 0.9190
+Epoch	68, Average Loss:0.0077, Average Acc: 0.9715, CV Loss:0.0082, CV Acc: 0.9195
+Epoch	69, Average Loss:0.0077, Average Acc: 0.9717, CV Loss:0.0082, CV Acc: 0.9190
+Epoch	70, Average Loss:0.0077, Average Acc: 0.9720, CV Loss:0.0082, CV Acc: 0.9190
+Epoch	71, Average Loss:0.0077, Average Acc: 0.9722, CV Loss:0.0082, CV Acc: 0.9182
+Epoch	72, Average Loss:0.0077, Average Acc: 0.9724, CV Loss:0.0082, CV Acc: 0.9180
+Epoch	73, Average Loss:0.0077, Average Acc: 0.9728, CV Loss:0.0082, CV Acc: 0.9178
+Epoch	74, Average Loss:0.0077, Average Acc: 0.9730, CV Loss:0.0082, CV Acc: 0.9180
+Epoch	75, Average Loss:0.0077, Average Acc: 0.9732, CV Loss:0.0083, CV Acc: 0.9178
+Epoch	76, Average Loss:0.0077, Average Acc: 0.9734, CV Loss:0.0083, CV Acc: 0.9175
+Epoch	77, Average Loss:0.0077, Average Acc: 0.9737, CV Loss:0.0083, CV Acc: 0.9172
+Epoch	78, Average Loss:0.0077, Average Acc: 0.9739, CV Loss:0.0083, CV Acc: 0.9172
+Epoch	79, Average Loss:0.0077, Average Acc: 0.9741, CV Loss:0.0083, CV Acc: 0.9172
+Epoch	80, Average Loss:0.0077, Average Acc: 0.9743, CV Loss:0.0083, CV Acc: 0.9173
+
+-- TEST RESULTS --
+Test Accuracy: 0.9130, Test Loss: 0.0083
+Confusion matrix (truth,prediction)
+0.9053	0.0272	0.0390	0.0285	
+0.0087	0.9774	0.0087	0.0053	
+0.0368	0.0074	0.8806	0.0752	
+0.0372	0.0078	0.0762	0.8788	
+
+Experiment Model: Double LSTM, Time: Sat 30 Dec 2023, 06:03PM
+Parameters: EMBEDDING_DIM: 16, HIDDEN_DIM: 32, LSTM_LAYERS: 1, NOLSTM: False, 
+Epoch	 1, Average Loss:0.0138, Average Acc: 0.3299, CV Loss:0.0137, CV Acc: 0.5425
+Epoch	 2, Average Loss:0.0134, Average Acc: 0.5398, CV Loss:0.0128, CV Acc: 0.5995
+Epoch	 3, Average Loss:0.0122, Average Acc: 0.6750, CV Loss:0.0116, CV Acc: 0.7582
+Epoch	 4, Average Loss:0.0111, Average Acc: 0.7846, CV Loss:0.0105, CV Acc: 0.8100
+Epoch	 5, Average Loss:0.0102, Average Acc: 0.8207, CV Loss:0.0098, CV Acc: 0.8333
+Epoch	 6, Average Loss:0.0095, Average Acc: 0.8429, CV Loss:0.0093, CV Acc: 0.8518
+Epoch	 7, Average Loss:0.0091, Average Acc: 0.8596, CV Loss:0.0090, CV Acc: 0.8643
+Epoch	 8, Average Loss:0.0089, Average Acc: 0.8721, CV Loss:0.0088, CV Acc: 0.8735
+Epoch	 9, Average Loss:0.0087, Average Acc: 0.8819, CV Loss:0.0087, CV Acc: 0.8798
+Epoch	10, Average Loss:0.0086, Average Acc: 0.8898, CV Loss:0.0086, CV Acc: 0.8848
+Epoch	11, Average Loss:0.0085, Average Acc: 0.8962, CV Loss:0.0086, CV Acc: 0.8905
+Epoch	12, Average Loss:0.0085, Average Acc: 0.9013, CV Loss:0.0085, CV Acc: 0.8927
+Epoch	13, Average Loss:0.0084, Average Acc: 0.9057, CV Loss:0.0085, CV Acc: 0.8940
+Epoch	14, Average Loss:0.0084, Average Acc: 0.9095, CV Loss:0.0085, CV Acc: 0.8965
+Epoch	15, Average Loss:0.0083, Average Acc: 0.9133, CV Loss:0.0085, CV Acc: 0.8992
+Epoch	16, Average Loss:0.0083, Average Acc: 0.9161, CV Loss:0.0084, CV Acc: 0.9007
+Epoch	17, Average Loss:0.0083, Average Acc: 0.9189, CV Loss:0.0084, CV Acc: 0.9022
+Epoch	18, Average Loss:0.0082, Average Acc: 0.9213, CV Loss:0.0084, CV Acc: 0.9038
+Epoch	19, Average Loss:0.0082, Average Acc: 0.9236, CV Loss:0.0084, CV Acc: 0.9055
+Epoch	20, Average Loss:0.0082, Average Acc: 0.9257, CV Loss:0.0084, CV Acc: 0.9060
+Epoch	21, Average Loss:0.0082, Average Acc: 0.9278, CV Loss:0.0084, CV Acc: 0.9067
+Epoch	22, Average Loss:0.0082, Average Acc: 0.9296, CV Loss:0.0084, CV Acc: 0.9070
+Epoch	23, Average Loss:0.0081, Average Acc: 0.9314, CV Loss:0.0084, CV Acc: 0.9073
+Epoch	24, Average Loss:0.0081, Average Acc: 0.9330, CV Loss:0.0083, CV Acc: 0.9080
+Epoch	25, Average Loss:0.0081, Average Acc: 0.9346, CV Loss:0.0083, CV Acc: 0.9087
+Epoch	26, Average Loss:0.0081, Average Acc: 0.9364, CV Loss:0.0083, CV Acc: 0.9088
+Epoch	27, Average Loss:0.0081, Average Acc: 0.9378, CV Loss:0.0083, CV Acc: 0.9090
+Epoch	28, Average Loss:0.0081, Average Acc: 0.9393, CV Loss:0.0083, CV Acc: 0.9100
+Epoch	29, Average Loss:0.0081, Average Acc: 0.9404, CV Loss:0.0083, CV Acc: 0.9107
+Epoch	30, Average Loss:0.0080, Average Acc: 0.9416, CV Loss:0.0083, CV Acc: 0.9112
+Epoch	31, Average Loss:0.0080, Average Acc: 0.9429, CV Loss:0.0083, CV Acc: 0.9110
+Epoch	32, Average Loss:0.0080, Average Acc: 0.9440, CV Loss:0.0083, CV Acc: 0.9118
+Epoch	33, Average Loss:0.0080, Average Acc: 0.9450, CV Loss:0.0083, CV Acc: 0.9123
+Epoch	34, Average Loss:0.0080, Average Acc: 0.9460, CV Loss:0.0083, CV Acc: 0.9133
+Epoch	35, Average Loss:0.0080, Average Acc: 0.9472, CV Loss:0.0083, CV Acc: 0.9138
+Epoch	36, Average Loss:0.0080, Average Acc: 0.9481, CV Loss:0.0083, CV Acc: 0.9133
+Epoch	37, Average Loss:0.0080, Average Acc: 0.9491, CV Loss:0.0083, CV Acc: 0.9135
+Epoch	38, Average Loss:0.0080, Average Acc: 0.9499, CV Loss:0.0083, CV Acc: 0.9143
+Epoch	39, Average Loss:0.0079, Average Acc: 0.9508, CV Loss:0.0083, CV Acc: 0.9145
+Epoch	40, Average Loss:0.0079, Average Acc: 0.9515, CV Loss:0.0083, CV Acc: 0.9147
+Epoch	41, Average Loss:0.0079, Average Acc: 0.9524, CV Loss:0.0083, CV Acc: 0.9153
+Epoch	42, Average Loss:0.0079, Average Acc: 0.9532, CV Loss:0.0083, CV Acc: 0.9157
+Epoch	43, Average Loss:0.0079, Average Acc: 0.9541, CV Loss:0.0083, CV Acc: 0.9162
+Epoch	44, Average Loss:0.0079, Average Acc: 0.9548, CV Loss:0.0083, CV Acc: 0.9165
+Epoch	45, Average Loss:0.0079, Average Acc: 0.9555, CV Loss:0.0083, CV Acc: 0.9165
+Epoch	46, Average Loss:0.0079, Average Acc: 0.9561, CV Loss:0.0083, CV Acc: 0.9165
+Epoch	47, Average Loss:0.0079, Average Acc: 0.9568, CV Loss:0.0083, CV Acc: 0.9168
+Epoch	48, Average Loss:0.0079, Average Acc: 0.9576, CV Loss:0.0083, CV Acc: 0.9168
+Epoch	49, Average Loss:0.0079, Average Acc: 0.9581, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	50, Average Loss:0.0079, Average Acc: 0.9586, CV Loss:0.0083, CV Acc: 0.9173
+Epoch	51, Average Loss:0.0079, Average Acc: 0.9592, CV Loss:0.0083, CV Acc: 0.9173
+Epoch	52, Average Loss:0.0079, Average Acc: 0.9596, CV Loss:0.0083, CV Acc: 0.9178
+Epoch	53, Average Loss:0.0078, Average Acc: 0.9600, CV Loss:0.0083, CV Acc: 0.9183
+Epoch	54, Average Loss:0.0078, Average Acc: 0.9605, CV Loss:0.0083, CV Acc: 0.9187
+Epoch	55, Average Loss:0.0078, Average Acc: 0.9611, CV Loss:0.0083, CV Acc: 0.9185
+Epoch	56, Average Loss:0.0078, Average Acc: 0.9615, CV Loss:0.0083, CV Acc: 0.9182
+Epoch	57, Average Loss:0.0078, Average Acc: 0.9621, CV Loss:0.0083, CV Acc: 0.9187
+Epoch	58, Average Loss:0.0078, Average Acc: 0.9626, CV Loss:0.0083, CV Acc: 0.9190
+Epoch	59, Average Loss:0.0078, Average Acc: 0.9630, CV Loss:0.0083, CV Acc: 0.9188
+Epoch	60, Average Loss:0.0078, Average Acc: 0.9635, CV Loss:0.0083, CV Acc: 0.9188
+Epoch	61, Average Loss:0.0078, Average Acc: 0.9639, CV Loss:0.0083, CV Acc: 0.9188
+Epoch	62, Average Loss:0.0078, Average Acc: 0.9643, CV Loss:0.0083, CV Acc: 0.9185
+Epoch	63, Average Loss:0.0078, Average Acc: 0.9647, CV Loss:0.0083, CV Acc: 0.9188
+Epoch	64, Average Loss:0.0078, Average Acc: 0.9651, CV Loss:0.0083, CV Acc: 0.9187
+Epoch	65, Average Loss:0.0078, Average Acc: 0.9655, CV Loss:0.0083, CV Acc: 0.9185
+Epoch	66, Average Loss:0.0078, Average Acc: 0.9659, CV Loss:0.0083, CV Acc: 0.9175
+Epoch	67, Average Loss:0.0078, Average Acc: 0.9662, CV Loss:0.0083, CV Acc: 0.9168
+Epoch	68, Average Loss:0.0078, Average Acc: 0.9664, CV Loss:0.0083, CV Acc: 0.9170
+Epoch	69, Average Loss:0.0078, Average Acc: 0.9667, CV Loss:0.0083, CV Acc: 0.9167
+Epoch	70, Average Loss:0.0078, Average Acc: 0.9671, CV Loss:0.0083, CV Acc: 0.9160
+Epoch	71, Average Loss:0.0078, Average Acc: 0.9674, CV Loss:0.0083, CV Acc: 0.9158
+Epoch	72, Average Loss:0.0078, Average Acc: 0.9677, CV Loss:0.0083, CV Acc: 0.9158
+Epoch	73, Average Loss:0.0078, Average Acc: 0.9679, CV Loss:0.0083, CV Acc: 0.9158
+Epoch	74, Average Loss:0.0078, Average Acc: 0.9683, CV Loss:0.0083, CV Acc: 0.9158
+Epoch	75, Average Loss:0.0078, Average Acc: 0.9685, CV Loss:0.0083, CV Acc: 0.9160
+Epoch	76, Average Loss:0.0078, Average Acc: 0.9688, CV Loss:0.0083, CV Acc: 0.9163
+Epoch	77, Average Loss:0.0077, Average Acc: 0.9691, CV Loss:0.0083, CV Acc: 0.9162
+Epoch	78, Average Loss:0.0077, Average Acc: 0.9694, CV Loss:0.0083, CV Acc: 0.9157
+Epoch	79, Average Loss:0.0077, Average Acc: 0.9697, CV Loss:0.0083, CV Acc: 0.9157
+Epoch	80, Average Loss:0.0077, Average Acc: 0.9700, CV Loss:0.0083, CV Acc: 0.9162
+
+-- TEST RESULTS --
+Test Accuracy: 0.9125, Test Loss: 0.0083
+Confusion matrix (truth,prediction)
+0.8928	0.0339	0.0416	0.0317	
+0.0080	0.9793	0.0073	0.0054	
+0.0281	0.0102	0.8824	0.0793	
+0.0218	0.0123	0.0758	0.8901	
+
+Experiment Model: Multilayer, Time: Sat 30 Dec 2023, 06:10PM
+Parameters: EMBEDDING_DIM: 16, HIDDEN_DIM: 16, LSTM_LAYERS: 3, NOLSTM: False, 
+Epoch	 1, Average Loss:0.0139, Average Acc: 0.2503, CV Loss:0.0139, CV Acc: 0.2452
+Epoch	 2, Average Loss:0.0137, Average Acc: 0.3824, CV Loss:0.0129, CV Acc: 0.4587
+Epoch	 3, Average Loss:0.0124, Average Acc: 0.4770, CV Loss:0.0121, CV Acc: 0.5260
+Epoch	 4, Average Loss:0.0117, Average Acc: 0.5854, CV Loss:0.0114, CV Acc: 0.6217
+Epoch	 5, Average Loss:0.0111, Average Acc: 0.6543, CV Loss:0.0109, CV Acc: 0.6700
+Epoch	 6, Average Loss:0.0106, Average Acc: 0.7037, CV Loss:0.0105, CV Acc: 0.7018
+Epoch	 7, Average Loss:0.0102, Average Acc: 0.7379, CV Loss:0.0102, CV Acc: 0.7280
+Epoch	 8, Average Loss:0.0099, Average Acc: 0.7613, CV Loss:0.0100, CV Acc: 0.7442
+Epoch	 9, Average Loss:0.0097, Average Acc: 0.7799, CV Loss:0.0098, CV Acc: 0.7608
+Epoch	10, Average Loss:0.0095, Average Acc: 0.7951, CV Loss:0.0097, CV Acc: 0.7737
+Epoch	11, Average Loss:0.0094, Average Acc: 0.8083, CV Loss:0.0096, CV Acc: 0.7843
+Epoch	12, Average Loss:0.0093, Average Acc: 0.8194, CV Loss:0.0095, CV Acc: 0.7947
+Epoch	13, Average Loss:0.0092, Average Acc: 0.8291, CV Loss:0.0094, CV Acc: 0.8033
+Epoch	14, Average Loss:0.0091, Average Acc: 0.8377, CV Loss:0.0093, CV Acc: 0.8092
+Epoch	15, Average Loss:0.0090, Average Acc: 0.8454, CV Loss:0.0093, CV Acc: 0.8148
+Epoch	16, Average Loss:0.0089, Average Acc: 0.8519, CV Loss:0.0092, CV Acc: 0.8202
+Epoch	17, Average Loss:0.0089, Average Acc: 0.8583, CV Loss:0.0092, CV Acc: 0.8252
+Epoch	18, Average Loss:0.0088, Average Acc: 0.8643, CV Loss:0.0091, CV Acc: 0.8305
+Epoch	19, Average Loss:0.0087, Average Acc: 0.8695, CV Loss:0.0091, CV Acc: 0.8347
+Epoch	20, Average Loss:0.0087, Average Acc: 0.8742, CV Loss:0.0090, CV Acc: 0.8395
+Epoch	21, Average Loss:0.0086, Average Acc: 0.8788, CV Loss:0.0090, CV Acc: 0.8437
+Epoch	22, Average Loss:0.0086, Average Acc: 0.8831, CV Loss:0.0090, CV Acc: 0.8460
+Epoch	23, Average Loss:0.0086, Average Acc: 0.8865, CV Loss:0.0089, CV Acc: 0.8488
+Epoch	24, Average Loss:0.0085, Average Acc: 0.8902, CV Loss:0.0089, CV Acc: 0.8522
+Epoch	25, Average Loss:0.0085, Average Acc: 0.8938, CV Loss:0.0089, CV Acc: 0.8543
+Epoch	26, Average Loss:0.0085, Average Acc: 0.8968, CV Loss:0.0088, CV Acc: 0.8570
+Epoch	27, Average Loss:0.0084, Average Acc: 0.8995, CV Loss:0.0088, CV Acc: 0.8592
+Epoch	28, Average Loss:0.0084, Average Acc: 0.9020, CV Loss:0.0088, CV Acc: 0.8603
+Epoch	29, Average Loss:0.0084, Average Acc: 0.9044, CV Loss:0.0088, CV Acc: 0.8617
+Epoch	30, Average Loss:0.0084, Average Acc: 0.9065, CV Loss:0.0088, CV Acc: 0.8632
+Epoch	31, Average Loss:0.0083, Average Acc: 0.9087, CV Loss:0.0088, CV Acc: 0.8647
+Epoch	32, Average Loss:0.0083, Average Acc: 0.9107, CV Loss:0.0088, CV Acc: 0.8653
+Epoch	33, Average Loss:0.0083, Average Acc: 0.9123, CV Loss:0.0088, CV Acc: 0.8668
+Epoch	34, Average Loss:0.0083, Average Acc: 0.9141, CV Loss:0.0088, CV Acc: 0.8673
+Epoch	35, Average Loss:0.0083, Average Acc: 0.9156, CV Loss:0.0087, CV Acc: 0.8672
+Epoch	36, Average Loss:0.0083, Average Acc: 0.9171, CV Loss:0.0087, CV Acc: 0.8672
+Epoch	37, Average Loss:0.0082, Average Acc: 0.9184, CV Loss:0.0087, CV Acc: 0.8682
+Epoch	38, Average Loss:0.0082, Average Acc: 0.9197, CV Loss:0.0087, CV Acc: 0.8688
+Epoch	39, Average Loss:0.0082, Average Acc: 0.9211, CV Loss:0.0087, CV Acc: 0.8688
+Epoch	40, Average Loss:0.0082, Average Acc: 0.9224, CV Loss:0.0087, CV Acc: 0.8695
+Epoch	41, Average Loss:0.0082, Average Acc: 0.9236, CV Loss:0.0087, CV Acc: 0.8700
+Epoch	42, Average Loss:0.0082, Average Acc: 0.9246, CV Loss:0.0087, CV Acc: 0.8692
+Epoch	43, Average Loss:0.0082, Average Acc: 0.9257, CV Loss:0.0087, CV Acc: 0.8705
+Epoch	44, Average Loss:0.0082, Average Acc: 0.9265, CV Loss:0.0087, CV Acc: 0.8705
+Epoch	45, Average Loss:0.0082, Average Acc: 0.9273, CV Loss:0.0087, CV Acc: 0.8710
+Epoch	46, Average Loss:0.0081, Average Acc: 0.9282, CV Loss:0.0087, CV Acc: 0.8710
+Epoch	47, Average Loss:0.0081, Average Acc: 0.9290, CV Loss:0.0087, CV Acc: 0.8713
+Epoch	48, Average Loss:0.0081, Average Acc: 0.9300, CV Loss:0.0087, CV Acc: 0.8730
+Epoch	49, Average Loss:0.0081, Average Acc: 0.9308, CV Loss:0.0087, CV Acc: 0.8730
+Epoch	50, Average Loss:0.0081, Average Acc: 0.9316, CV Loss:0.0087, CV Acc: 0.8740
+Epoch	51, Average Loss:0.0081, Average Acc: 0.9323, CV Loss:0.0087, CV Acc: 0.8748
+Epoch	52, Average Loss:0.0081, Average Acc: 0.9332, CV Loss:0.0087, CV Acc: 0.8762
+Epoch	53, Average Loss:0.0081, Average Acc: 0.9341, CV Loss:0.0087, CV Acc: 0.8762
+Epoch	54, Average Loss:0.0081, Average Acc: 0.9348, CV Loss:0.0087, CV Acc: 0.8763
+Epoch	55, Average Loss:0.0081, Average Acc: 0.9355, CV Loss:0.0087, CV Acc: 0.8757
+Epoch	56, Average Loss:0.0081, Average Acc: 0.9364, CV Loss:0.0087, CV Acc: 0.8768
+Epoch	57, Average Loss:0.0081, Average Acc: 0.9373, CV Loss:0.0087, CV Acc: 0.8767
+Epoch	58, Average Loss:0.0080, Average Acc: 0.9381, CV Loss:0.0087, CV Acc: 0.8773
+Epoch	59, Average Loss:0.0080, Average Acc: 0.9399, CV Loss:0.0087, CV Acc: 0.8760
+Epoch	60, Average Loss:0.0080, Average Acc: 0.9419, CV Loss:0.0087, CV Acc: 0.8737
+Epoch	61, Average Loss:0.0080, Average Acc: 0.9427, CV Loss:0.0087, CV Acc: 0.8720
+Epoch	62, Average Loss:0.0080, Average Acc: 0.9433, CV Loss:0.0087, CV Acc: 0.8722
+Epoch	63, Average Loss:0.0080, Average Acc: 0.9436, CV Loss:0.0087, CV Acc: 0.8707
+Epoch	64, Average Loss:0.0080, Average Acc: 0.9440, CV Loss:0.0087, CV Acc: 0.8708
+Epoch	65, Average Loss:0.0080, Average Acc: 0.9445, CV Loss:0.0087, CV Acc: 0.8722
+Epoch	66, Average Loss:0.0080, Average Acc: 0.9448, CV Loss:0.0087, CV Acc: 0.8718
+Epoch	67, Average Loss:0.0080, Average Acc: 0.9451, CV Loss:0.0087, CV Acc: 0.8725
+Epoch	68, Average Loss:0.0080, Average Acc: 0.9456, CV Loss:0.0087, CV Acc: 0.8727
+Epoch	69, Average Loss:0.0080, Average Acc: 0.9458, CV Loss:0.0087, CV Acc: 0.8717
+Epoch	70, Average Loss:0.0080, Average Acc: 0.9462, CV Loss:0.0087, CV Acc: 0.8713
+Epoch	71, Average Loss:0.0080, Average Acc: 0.9466, CV Loss:0.0087, CV Acc: 0.8707
+Epoch	72, Average Loss:0.0080, Average Acc: 0.9468, CV Loss:0.0087, CV Acc: 0.8723
+Epoch	73, Average Loss:0.0080, Average Acc: 0.9471, CV Loss:0.0087, CV Acc: 0.8717
+Epoch	74, Average Loss:0.0080, Average Acc: 0.9474, CV Loss:0.0087, CV Acc: 0.8733
+Epoch	75, Average Loss:0.0080, Average Acc: 0.9476, CV Loss:0.0087, CV Acc: 0.8733
+Epoch	76, Average Loss:0.0080, Average Acc: 0.9479, CV Loss:0.0087, CV Acc: 0.8723
+Epoch	77, Average Loss:0.0079, Average Acc: 0.9480, CV Loss:0.0087, CV Acc: 0.8727
+Epoch	78, Average Loss:0.0079, Average Acc: 0.9482, CV Loss:0.0087, CV Acc: 0.8720
+Epoch	79, Average Loss:0.0079, Average Acc: 0.9483, CV Loss:0.0087, CV Acc: 0.8730
+Epoch	80, Average Loss:0.0079, Average Acc: 0.9486, CV Loss:0.0087, CV Acc: 0.8717
+
+-- TEST RESULTS --
+Test Accuracy: 0.8699, Test Loss: 0.0087
+Confusion matrix (truth,prediction)
+0.8417	0.0312	0.0880	0.0392	
+0.0021	0.9650	0.0088	0.0240	
+0.0426	0.0067	0.8648	0.0859	
+0.0403	0.0448	0.1118	0.8031	
+
+Experiment Model: No LSTM, Time: Sat 30 Dec 2023, 06:17PM
+Parameters: EMBEDDING_DIM: 16, NOLSTM: True, 
+Epoch	 1, Average Loss:0.0138, Average Acc: 0.4336, CV Loss:0.0137, CV Acc: 0.5898
+Epoch	 2, Average Loss:0.0136, Average Acc: 0.6835, CV Loss:0.0134, CV Acc: 0.7373
+Epoch	 3, Average Loss:0.0132, Average Acc: 0.7654, CV Loss:0.0130, CV Acc: 0.7792
+Epoch	 4, Average Loss:0.0127, Average Acc: 0.7930, CV Loss:0.0125, CV Acc: 0.8005
+Epoch	 5, Average Loss:0.0122, Average Acc: 0.8097, CV Loss:0.0119, CV Acc: 0.8172
+Epoch	 6, Average Loss:0.0116, Average Acc: 0.8240, CV Loss:0.0113, CV Acc: 0.8295
+Epoch	 7, Average Loss:0.0111, Average Acc: 0.8359, CV Loss:0.0108, CV Acc: 0.8432
+Epoch	 8, Average Loss:0.0106, Average Acc: 0.8458, CV Loss:0.0104, CV Acc: 0.8530
+Epoch	 9, Average Loss:0.0102, Average Acc: 0.8538, CV Loss:0.0101, CV Acc: 0.8617
+Epoch	10, Average Loss:0.0099, Average Acc: 0.8609, CV Loss:0.0098, CV Acc: 0.8677
+Epoch	11, Average Loss:0.0096, Average Acc: 0.8675, CV Loss:0.0096, CV Acc: 0.8732
+Epoch	12, Average Loss:0.0094, Average Acc: 0.8733, CV Loss:0.0094, CV Acc: 0.8785
+Epoch	13, Average Loss:0.0093, Average Acc: 0.8785, CV Loss:0.0092, CV Acc: 0.8817
+Epoch	14, Average Loss:0.0091, Average Acc: 0.8830, CV Loss:0.0091, CV Acc: 0.8837
+Epoch	15, Average Loss:0.0090, Average Acc: 0.8870, CV Loss:0.0090, CV Acc: 0.8855
+Epoch	16, Average Loss:0.0089, Average Acc: 0.8906, CV Loss:0.0089, CV Acc: 0.8882
+Epoch	17, Average Loss:0.0088, Average Acc: 0.8941, CV Loss:0.0089, CV Acc: 0.8913
+Epoch	18, Average Loss:0.0088, Average Acc: 0.8971, CV Loss:0.0088, CV Acc: 0.8925
+Epoch	19, Average Loss:0.0087, Average Acc: 0.8998, CV Loss:0.0087, CV Acc: 0.8947
+Epoch	20, Average Loss:0.0087, Average Acc: 0.9023, CV Loss:0.0087, CV Acc: 0.8965
+Epoch	21, Average Loss:0.0086, Average Acc: 0.9044, CV Loss:0.0087, CV Acc: 0.8982
+Epoch	22, Average Loss:0.0086, Average Acc: 0.9068, CV Loss:0.0086, CV Acc: 0.9003
+Epoch	23, Average Loss:0.0085, Average Acc: 0.9088, CV Loss:0.0086, CV Acc: 0.9025
+Epoch	24, Average Loss:0.0085, Average Acc: 0.9107, CV Loss:0.0086, CV Acc: 0.9037
+Epoch	25, Average Loss:0.0085, Average Acc: 0.9125, CV Loss:0.0085, CV Acc: 0.9043
+Epoch	26, Average Loss:0.0084, Average Acc: 0.9139, CV Loss:0.0085, CV Acc: 0.9060
+Epoch	27, Average Loss:0.0084, Average Acc: 0.9156, CV Loss:0.0085, CV Acc: 0.9068
+Epoch	28, Average Loss:0.0084, Average Acc: 0.9171, CV Loss:0.0085, CV Acc: 0.9073
+Epoch	29, Average Loss:0.0084, Average Acc: 0.9184, CV Loss:0.0085, CV Acc: 0.9083
+Epoch	30, Average Loss:0.0084, Average Acc: 0.9197, CV Loss:0.0085, CV Acc: 0.9097
+Epoch	31, Average Loss:0.0083, Average Acc: 0.9209, CV Loss:0.0084, CV Acc: 0.9103
+Epoch	32, Average Loss:0.0083, Average Acc: 0.9221, CV Loss:0.0084, CV Acc: 0.9108
+Epoch	33, Average Loss:0.0083, Average Acc: 0.9229, CV Loss:0.0084, CV Acc: 0.9115
+Epoch	34, Average Loss:0.0083, Average Acc: 0.9240, CV Loss:0.0084, CV Acc: 0.9118
+Epoch	35, Average Loss:0.0083, Average Acc: 0.9250, CV Loss:0.0084, CV Acc: 0.9122
+Epoch	36, Average Loss:0.0083, Average Acc: 0.9258, CV Loss:0.0084, CV Acc: 0.9130
+Epoch	37, Average Loss:0.0083, Average Acc: 0.9268, CV Loss:0.0084, CV Acc: 0.9137
+Epoch	38, Average Loss:0.0082, Average Acc: 0.9277, CV Loss:0.0084, CV Acc: 0.9140
+Epoch	39, Average Loss:0.0082, Average Acc: 0.9285, CV Loss:0.0084, CV Acc: 0.9142
+Epoch	40, Average Loss:0.0082, Average Acc: 0.9294, CV Loss:0.0084, CV Acc: 0.9145
+Epoch	41, Average Loss:0.0082, Average Acc: 0.9303, CV Loss:0.0084, CV Acc: 0.9148
+Epoch	42, Average Loss:0.0082, Average Acc: 0.9311, CV Loss:0.0083, CV Acc: 0.9148
+Epoch	43, Average Loss:0.0082, Average Acc: 0.9317, CV Loss:0.0083, CV Acc: 0.9150
+Epoch	44, Average Loss:0.0082, Average Acc: 0.9326, CV Loss:0.0083, CV Acc: 0.9158
+Epoch	45, Average Loss:0.0082, Average Acc: 0.9335, CV Loss:0.0083, CV Acc: 0.9165
+Epoch	46, Average Loss:0.0082, Average Acc: 0.9343, CV Loss:0.0083, CV Acc: 0.9172
+Epoch	47, Average Loss:0.0082, Average Acc: 0.9350, CV Loss:0.0083, CV Acc: 0.9177
+Epoch	48, Average Loss:0.0081, Average Acc: 0.9357, CV Loss:0.0083, CV Acc: 0.9180
+Epoch	49, Average Loss:0.0081, Average Acc: 0.9365, CV Loss:0.0083, CV Acc: 0.9182
+Epoch	50, Average Loss:0.0081, Average Acc: 0.9372, CV Loss:0.0083, CV Acc: 0.9180
+Epoch	51, Average Loss:0.0081, Average Acc: 0.9378, CV Loss:0.0083, CV Acc: 0.9178
+Epoch	52, Average Loss:0.0081, Average Acc: 0.9384, CV Loss:0.0083, CV Acc: 0.9180
+Epoch	53, Average Loss:0.0081, Average Acc: 0.9390, CV Loss:0.0083, CV Acc: 0.9185
+Epoch	54, Average Loss:0.0081, Average Acc: 0.9397, CV Loss:0.0083, CV Acc: 0.9187
+Epoch	55, Average Loss:0.0081, Average Acc: 0.9404, CV Loss:0.0083, CV Acc: 0.9195
+Epoch	56, Average Loss:0.0081, Average Acc: 0.9410, CV Loss:0.0083, CV Acc: 0.9197
+Epoch	57, Average Loss:0.0081, Average Acc: 0.9416, CV Loss:0.0083, CV Acc: 0.9197
+Epoch	58, Average Loss:0.0081, Average Acc: 0.9422, CV Loss:0.0083, CV Acc: 0.9200
+Epoch	59, Average Loss:0.0081, Average Acc: 0.9427, CV Loss:0.0083, CV Acc: 0.9198
+Epoch	60, Average Loss:0.0081, Average Acc: 0.9432, CV Loss:0.0083, CV Acc: 0.9197
+Epoch	61, Average Loss:0.0081, Average Acc: 0.9439, CV Loss:0.0083, CV Acc: 0.9202
+Epoch	62, Average Loss:0.0080, Average Acc: 0.9445, CV Loss:0.0083, CV Acc: 0.9203
+Epoch	63, Average Loss:0.0080, Average Acc: 0.9449, CV Loss:0.0083, CV Acc: 0.9207
+Epoch	64, Average Loss:0.0080, Average Acc: 0.9454, CV Loss:0.0083, CV Acc: 0.9212
+Epoch	65, Average Loss:0.0080, Average Acc: 0.9458, CV Loss:0.0083, CV Acc: 0.9212
+Epoch	66, Average Loss:0.0080, Average Acc: 0.9463, CV Loss:0.0083, CV Acc: 0.9213
+Epoch	67, Average Loss:0.0080, Average Acc: 0.9467, CV Loss:0.0083, CV Acc: 0.9213
+Epoch	68, Average Loss:0.0080, Average Acc: 0.9473, CV Loss:0.0083, CV Acc: 0.9215
+Epoch	69, Average Loss:0.0080, Average Acc: 0.9476, CV Loss:0.0082, CV Acc: 0.9215
+Epoch	70, Average Loss:0.0080, Average Acc: 0.9481, CV Loss:0.0082, CV Acc: 0.9218
+Epoch	71, Average Loss:0.0080, Average Acc: 0.9484, CV Loss:0.0082, CV Acc: 0.9220
+Epoch	72, Average Loss:0.0080, Average Acc: 0.9488, CV Loss:0.0082, CV Acc: 0.9220
+Epoch	73, Average Loss:0.0080, Average Acc: 0.9494, CV Loss:0.0082, CV Acc: 0.9217
+Epoch	74, Average Loss:0.0080, Average Acc: 0.9498, CV Loss:0.0082, CV Acc: 0.9218
+Epoch	75, Average Loss:0.0080, Average Acc: 0.9503, CV Loss:0.0082, CV Acc: 0.9215
+Epoch	76, Average Loss:0.0080, Average Acc: 0.9508, CV Loss:0.0082, CV Acc: 0.9217
+Epoch	77, Average Loss:0.0080, Average Acc: 0.9512, CV Loss:0.0082, CV Acc: 0.9220
+Epoch	78, Average Loss:0.0080, Average Acc: 0.9516, CV Loss:0.0082, CV Acc: 0.9227
+Epoch	79, Average Loss:0.0080, Average Acc: 0.9519, CV Loss:0.0082, CV Acc: 0.9230
+Epoch	80, Average Loss:0.0080, Average Acc: 0.9523, CV Loss:0.0082, CV Acc: 0.9233
+
+-- TEST RESULTS --
+Test Accuracy: 0.9189, Test Loss: 0.0083
+Confusion matrix (truth,prediction)
+0.8983	0.0297	0.0425	0.0295	
+0.0098	0.9758	0.0084	0.0060	
+0.0304	0.0088	0.8730	0.0877	
+0.0276	0.0092	0.0701	0.8932	
+
+Experiment Model: Minimal, Time: Sat 30 Dec 2023, 06:36PM
+Parameters: EMBEDDING_DIM: 6, HIDDEN_DIM: 6, LSTM_LAYERS: 1, NOLSTM: False, 
+Epoch	 1, Average Loss:0.0139, Average Acc: 0.2777, CV Loss:0.0138, CV Acc: 0.3220
+Epoch	 2, Average Loss:0.0138, Average Acc: 0.4280, CV Loss:0.0138, CV Acc: 0.4498
+Epoch	 3, Average Loss:0.0137, Average Acc: 0.4504, CV Loss:0.0136, CV Acc: 0.4620
+Epoch	 4, Average Loss:0.0135, Average Acc: 0.4555, CV Loss:0.0133, CV Acc: 0.4652
+Epoch	 5, Average Loss:0.0131, Average Acc: 0.4610, CV Loss:0.0129, CV Acc: 0.4723
+Epoch	 6, Average Loss:0.0127, Average Acc: 0.4691, CV Loss:0.0125, CV Acc: 0.4783
+Epoch	 7, Average Loss:0.0123, Average Acc: 0.4823, CV Loss:0.0120, CV Acc: 0.5143
+Epoch	 8, Average Loss:0.0119, Average Acc: 0.5632, CV Loss:0.0117, CV Acc: 0.6197
+Epoch	 9, Average Loss:0.0115, Average Acc: 0.6362, CV Loss:0.0113, CV Acc: 0.6593
+Epoch	10, Average Loss:0.0112, Average Acc: 0.6612, CV Loss:0.0110, CV Acc: 0.6725
+Epoch	11, Average Loss:0.0109, Average Acc: 0.6721, CV Loss:0.0108, CV Acc: 0.6827
+Epoch	12, Average Loss:0.0107, Average Acc: 0.6804, CV Loss:0.0106, CV Acc: 0.6878
+Epoch	13, Average Loss:0.0105, Average Acc: 0.6878, CV Loss:0.0104, CV Acc: 0.6960
+Epoch	14, Average Loss:0.0103, Average Acc: 0.7073, CV Loss:0.0102, CV Acc: 0.7267
+Epoch	15, Average Loss:0.0101, Average Acc: 0.7632, CV Loss:0.0100, CV Acc: 0.7923
+Epoch	16, Average Loss:0.0098, Average Acc: 0.8152, CV Loss:0.0097, CV Acc: 0.8273
+Epoch	17, Average Loss:0.0096, Average Acc: 0.8370, CV Loss:0.0095, CV Acc: 0.8453
+Epoch	18, Average Loss:0.0094, Average Acc: 0.8473, CV Loss:0.0094, CV Acc: 0.8533
+Epoch	19, Average Loss:0.0093, Average Acc: 0.8547, CV Loss:0.0092, CV Acc: 0.8587
+Epoch	20, Average Loss:0.0091, Average Acc: 0.8606, CV Loss:0.0091, CV Acc: 0.8620
+Epoch	21, Average Loss:0.0090, Average Acc: 0.8657, CV Loss:0.0090, CV Acc: 0.8648
+Epoch	22, Average Loss:0.0089, Average Acc: 0.8706, CV Loss:0.0090, CV Acc: 0.8678
+Epoch	23, Average Loss:0.0089, Average Acc: 0.8753, CV Loss:0.0089, CV Acc: 0.8712
+Epoch	24, Average Loss:0.0088, Average Acc: 0.8796, CV Loss:0.0088, CV Acc: 0.8740
+Epoch	25, Average Loss:0.0087, Average Acc: 0.8836, CV Loss:0.0088, CV Acc: 0.8765
+Epoch	26, Average Loss:0.0087, Average Acc: 0.8871, CV Loss:0.0088, CV Acc: 0.8788
+Epoch	27, Average Loss:0.0086, Average Acc: 0.8902, CV Loss:0.0087, CV Acc: 0.8810
+Epoch	28, Average Loss:0.0086, Average Acc: 0.8935, CV Loss:0.0087, CV Acc: 0.8818
+Epoch	29, Average Loss:0.0085, Average Acc: 0.8963, CV Loss:0.0087, CV Acc: 0.8837
+Epoch	30, Average Loss:0.0085, Average Acc: 0.8993, CV Loss:0.0086, CV Acc: 0.8860
+Epoch	31, Average Loss:0.0085, Average Acc: 0.9019, CV Loss:0.0086, CV Acc: 0.8878
+Epoch	32, Average Loss:0.0085, Average Acc: 0.9044, CV Loss:0.0086, CV Acc: 0.8893
+Epoch	33, Average Loss:0.0084, Average Acc: 0.9067, CV Loss:0.0086, CV Acc: 0.8905
+Epoch	34, Average Loss:0.0084, Average Acc: 0.9089, CV Loss:0.0085, CV Acc: 0.8915
+Epoch	35, Average Loss:0.0084, Average Acc: 0.9108, CV Loss:0.0085, CV Acc: 0.8928
+Epoch	36, Average Loss:0.0084, Average Acc: 0.9128, CV Loss:0.0085, CV Acc: 0.8933
+Epoch	37, Average Loss:0.0083, Average Acc: 0.9145, CV Loss:0.0085, CV Acc: 0.8948
+Epoch	38, Average Loss:0.0083, Average Acc: 0.9162, CV Loss:0.0085, CV Acc: 0.8948
+Epoch	39, Average Loss:0.0083, Average Acc: 0.9179, CV Loss:0.0085, CV Acc: 0.8955
+Epoch	40, Average Loss:0.0083, Average Acc: 0.9195, CV Loss:0.0085, CV Acc: 0.8967
+Epoch	41, Average Loss:0.0083, Average Acc: 0.9208, CV Loss:0.0085, CV Acc: 0.8973
+Epoch	42, Average Loss:0.0083, Average Acc: 0.9222, CV Loss:0.0085, CV Acc: 0.8982
+Epoch	43, Average Loss:0.0082, Average Acc: 0.9236, CV Loss:0.0084, CV Acc: 0.8995
+Epoch	44, Average Loss:0.0082, Average Acc: 0.9248, CV Loss:0.0084, CV Acc: 0.9005
+Epoch	45, Average Loss:0.0082, Average Acc: 0.9260, CV Loss:0.0084, CV Acc: 0.9005
+Epoch	46, Average Loss:0.0082, Average Acc: 0.9271, CV Loss:0.0084, CV Acc: 0.9008
+Epoch	47, Average Loss:0.0082, Average Acc: 0.9281, CV Loss:0.0084, CV Acc: 0.9018
+Epoch	48, Average Loss:0.0082, Average Acc: 0.9293, CV Loss:0.0084, CV Acc: 0.9030
+Epoch	49, Average Loss:0.0082, Average Acc: 0.9303, CV Loss:0.0084, CV Acc: 0.9037
+Epoch	50, Average Loss:0.0082, Average Acc: 0.9314, CV Loss:0.0084, CV Acc: 0.9042
+Epoch	51, Average Loss:0.0081, Average Acc: 0.9323, CV Loss:0.0084, CV Acc: 0.9047
+Epoch	52, Average Loss:0.0081, Average Acc: 0.9333, CV Loss:0.0084, CV Acc: 0.9058
+Epoch	53, Average Loss:0.0081, Average Acc: 0.9342, CV Loss:0.0084, CV Acc: 0.9063
+Epoch	54, Average Loss:0.0081, Average Acc: 0.9350, CV Loss:0.0084, CV Acc: 0.9065
+Epoch	55, Average Loss:0.0081, Average Acc: 0.9360, CV Loss:0.0084, CV Acc: 0.9067
+Epoch	56, Average Loss:0.0081, Average Acc: 0.9369, CV Loss:0.0084, CV Acc: 0.9068
+Epoch	57, Average Loss:0.0081, Average Acc: 0.9377, CV Loss:0.0084, CV Acc: 0.9067
+Epoch	58, Average Loss:0.0081, Average Acc: 0.9385, CV Loss:0.0084, CV Acc: 0.9073
+Epoch	59, Average Loss:0.0081, Average Acc: 0.9392, CV Loss:0.0084, CV Acc: 0.9075
+Epoch	60, Average Loss:0.0081, Average Acc: 0.9399, CV Loss:0.0084, CV Acc: 0.9080
+Epoch	61, Average Loss:0.0081, Average Acc: 0.9405, CV Loss:0.0083, CV Acc: 0.9078
+Epoch	62, Average Loss:0.0081, Average Acc: 0.9412, CV Loss:0.0083, CV Acc: 0.9087
+Epoch	63, Average Loss:0.0080, Average Acc: 0.9418, CV Loss:0.0083, CV Acc: 0.9090
+Epoch	64, Average Loss:0.0080, Average Acc: 0.9424, CV Loss:0.0083, CV Acc: 0.9087
+Epoch	65, Average Loss:0.0080, Average Acc: 0.9430, CV Loss:0.0083, CV Acc: 0.9092
+Epoch	66, Average Loss:0.0080, Average Acc: 0.9434, CV Loss:0.0083, CV Acc: 0.9090
+Epoch	67, Average Loss:0.0080, Average Acc: 0.9440, CV Loss:0.0083, CV Acc: 0.9090
+Epoch	68, Average Loss:0.0080, Average Acc: 0.9445, CV Loss:0.0083, CV Acc: 0.9090
+Epoch	69, Average Loss:0.0080, Average Acc: 0.9450, CV Loss:0.0083, CV Acc: 0.9093
+Epoch	70, Average Loss:0.0080, Average Acc: 0.9455, CV Loss:0.0083, CV Acc: 0.9097
+Epoch	71, Average Loss:0.0080, Average Acc: 0.9460, CV Loss:0.0083, CV Acc: 0.9100
+Epoch	72, Average Loss:0.0080, Average Acc: 0.9465, CV Loss:0.0083, CV Acc: 0.9100
+Epoch	73, Average Loss:0.0080, Average Acc: 0.9469, CV Loss:0.0083, CV Acc: 0.9103
+Epoch	74, Average Loss:0.0080, Average Acc: 0.9474, CV Loss:0.0083, CV Acc: 0.9102
+Epoch	75, Average Loss:0.0080, Average Acc: 0.9479, CV Loss:0.0083, CV Acc: 0.9102
+Epoch	76, Average Loss:0.0080, Average Acc: 0.9485, CV Loss:0.0083, CV Acc: 0.9103
+Epoch	77, Average Loss:0.0080, Average Acc: 0.9490, CV Loss:0.0083, CV Acc: 0.9105
+Epoch	78, Average Loss:0.0080, Average Acc: 0.9494, CV Loss:0.0083, CV Acc: 0.9103
+Epoch	79, Average Loss:0.0080, Average Acc: 0.9498, CV Loss:0.0083, CV Acc: 0.9105
+Epoch	80, Average Loss:0.0079, Average Acc: 0.9504, CV Loss:0.0083, CV Acc: 0.9107
+
+-- TEST RESULTS --
+Test Accuracy: 0.9059, Test Loss: 0.0084
+Confusion matrix (truth,prediction)
+0.8932	0.0302	0.0503	0.0262	
+0.0091	0.9631	0.0044	0.0234	
+0.0282	0.0039	0.8851	0.0828	
+0.0304	0.0077	0.0984	0.8635	

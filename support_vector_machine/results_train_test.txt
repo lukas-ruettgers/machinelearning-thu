@@ -1,0 +1,120 @@
+
+KN: rbf, KNC: auto, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1988, FN: 562, FP: 514, TN: 1936, Accuracy: 0.7848
+Testing Results: TP: 427, FN: 120, FP: 120, TN: 430, Accuracy: 0.7812
+
+KN: linear, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2028, FN: 522, FP: 482, TN: 1968, Accuracy: 0.7992
+Testing Results: TP: 458, FN: 89, FP: 148, TN: 402, Accuracy: 0.7840
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2200, FN: 350, FP: 340, TN: 2110, Accuracy: 0.8620
+Testing Results: TP: 456, FN: 91, FP: 145, TN: 405, Accuracy: 0.7849
+
+KN: sigmoid, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1768, FN: 782, FP: 646, TN: 1804, Accuracy: 0.7144
+Testing Results: TP: 377, FN: 170, FP: 140, TN: 410, Accuracy: 0.7174
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 7
+Training Results: TP: 2548, FN: 2, FP: 3, TN: 2447, Accuracy: 0.9990
+Testing Results: TP: 445, FN: 102, FP: 183, TN: 367, Accuracy: 0.7402
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 2
+Training Results: TP: 2120, FN: 430, FP: 443, TN: 2007, Accuracy: 0.8254
+Testing Results: TP: 457, FN: 90, FP: 140, TN: 410, Accuracy: 0.7903
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2200, FN: 350, FP: 340, TN: 2110, Accuracy: 0.8620
+Testing Results: TP: 458, FN: 89, FP: 146, TN: 404, Accuracy: 0.7858
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 4
+Training Results: TP: 2337, FN: 213, FP: 184, TN: 2266, Accuracy: 0.9206
+Testing Results: TP: 444, FN: 103, FP: 157, TN: 393, Accuracy: 0.7630
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 5
+Training Results: TP: 2463, FN: 87, FN: 75, TN: 2375, Accuracy: 0.9676
+Testing Results: TP: 454, FN: 93, FN: 184, TN: 366, Accuracy: 0.7475
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 6
+Training Results: TP: 2531, FN: 19, FP: 14, TN: 2436, Accuracy: 0.9934
+Testing Results: TP: 461, FN: 86, FP: 194, TN: 356, Accuracy: 0.7448
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 7
+Training Results: TP: 2548, FN: 2, FN: 3, TN: 2447, Accuracy: 0.9990
+Testing Results: TP: 451, FN: 96, FN: 194, TN: 356, Accuracy: 0.7356
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 2
+Training Results: TP: 2120, FN: 430, FN: 443, TN: 2007, Accuracy: 0.8254
+Testing Results: TP: 457, FN: 90, FN: 140, TN: 410, Accuracy: 0.7903
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2200, FN: 350, FN: 340, TN: 2110, Accuracy: 0.8620
+Testing Results: TP: 458, FN: 89, FN: 146, TN: 404, Accuracy: 0.7858
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 4
+Training Results: TP: 2337, FN: 213, FN: 184, TN: 2266, Accuracy: 0.9206
+Testing Results: TP: 444, FN: 103, FN: 157, TN: 393, Accuracy: 0.7630
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 5
+Training Results: TP: 2463, FN: 87, FN: 75, TN: 2375, Accuracy: 0.9676
+Testing Results: TP: 454, FN: 93, FN: 184, TN: 366, Accuracy: 0.7475
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 6
+Training Results: TP: 2531, FN: 19, FN: 14, TN: 2436, Accuracy: 0.9934
+Testing Results: TP: 461, FN: 86, FN: 194, TN: 356, Accuracy: 0.7448
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 7
+Training Results: TP: 2548, FN: 2, FN: 3, TN: 2447, Accuracy: 0.9990
+Testing Results: TP: 451, FN: 96, FN: 194, TN: 356, Accuracy: 0.7356
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 1
+Training Results: TP: 2016, FN: 534, FN: 503, TN: 1947, Accuracy: 0.7926
+Testing Results: TP: 438, FN: 109, FN: 120, TN: 430, Accuracy: 0.7912
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2200, FN: 350, FN: 340, TN: 2110, Accuracy: 0.8620
+Testing Results: TP: 458, FN: 89, FN: 146, TN: 404, Accuracy: 0.7858
+
+KN: poly, KNC: scale, REG: 0.5, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2166, FN: 384, FN: 401, TN: 2049, Accuracy: 0.8430
+Testing Results: TP: 457, FN: 90, FN: 143, TN: 407, Accuracy: 0.7876
+
+KN: poly, KNC: scale, REG: 0.1, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2089, FN: 461, FN: 489, TN: 1961, Accuracy: 0.8100
+Testing Results: TP: 440, FN: 107, FN: 124, TN: 426, Accuracy: 0.7894
+
+KN: poly, KNC: auto, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1818, FN: 732, FN: 558, TN: 1892, Accuracy: 0.7420
+Testing Results: TP: 365, FN: 182, FN: 98, TN: 452, Accuracy: 0.7448
+
+KN: sigmoid, KNC: auto, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1955, FN: 595, FN: 527, TN: 1923, Accuracy: 0.7756
+Testing Results: TP: 416, FN: 131, FN: 115, TN: 435, Accuracy: 0.7758
+
+KN: linear, KNC: auto, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2028, FN: 522, FN: 482, TN: 1968, Accuracy: 0.7992
+Testing Results: TP: 458, FN: 89, FN: 148, TN: 402, Accuracy: 0.7840
+
+KN: poly, KNC: auto, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1818, FN: 732, FN: 558, TN: 1892, Accuracy: 0.7420
+Testing Results: TP: 372, FN: 175, FN: 108, TN: 442, Accuracy: 0.7420
+
+KN: rbf, KNC: auto, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1988, FN: 562, FN: 514, TN: 1936, Accuracy: 0.7848
+Testing Results: TP: 428, FN: 119, FN: 123, TN: 427, Accuracy: 0.7794
+
+KN: rbf, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2120, FN: 430, FP: 431, TN: 2019, Accuracy: 0.8278
+Testing Results: TP: 453, FN: 94, FP: 130, TN: 420, Accuracy: 0.7958
+
+KN: linear, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2028, FN: 522, FN: 482, TN: 1968, Accuracy: 0.7992
+Testing Results: TP: 458, FN: 89, FP: 148, TN: 402, Accuracy: 0.7840
+
+KN: poly, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 2200, FN: 350, FP: 340, TN: 2110, Accuracy: 0.8620
+Testing Results: TP: 456, FN: 91, FP: 145, TN: 405, Accuracy: 0.7849
+
+KN: sigmoid, KNC: scale, REG: 1.0, TI: -1, SHR: True, PKD: 3
+Training Results: TP: 1768, FN: 782, FP: 646, TN: 1804, Accuracy: 0.7144
+Testing Results: TP: 377, FN: 170, FP: 140, TN: 410, Accuracy: 0.7174
