@@ -1,5 +1,5 @@
 # machinelearning-thu
-This repository contains experiments, implementations and written reports as part of the "Machine Learning" at Tsinghua University.
+This repository contains experiments, implementations and written reports as part of the "Machine Learning" lecture at Tsinghua University.
 
 ## Midterm Summary
 The mid term report summarizes the first half of the lecture's content and illustrates each field's key aspects and their relations.
